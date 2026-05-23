@@ -1,0 +1,78 @@
+specification: FinOps Framework
+specificationVersion: '1.0'
+schema: https://www.finops.org/framework/
+provider: Arkema
+providerId: arkema
+created: '2026-05-23'
+modified: '2026-05-23'
+reconciled: false
+tags:
+  - Chemicals
+  - Specialty Materials
+  - Adhesives
+  - Polymers
+  - Coatings
+  - FinOps
+  - FOCUS
+description: >-
+  Arkema integrations settle through commercial supply and distribution
+  agreements rather than a metered API invoice. FinOps mapping is structural
+  only — covering procurement-grade cost allocation rather than per-call usage
+  charges.
+notes: >-
+  No public developer pricing — placeholder only. Costs flow through goods
+  pricing (per-tonne or per-unit polymer, adhesive, coating, intermediate),
+  freight and service charges rather than a metered API line item.
+sources:
+  - https://www.arkema.com
+  - https://www.arkema.com/global/en/investor-relations/
+alignedWith:
+  framework: FinOps Foundation Framework
+  frameworkUrl: https://www.finops.org/framework/
+  dataSpec: FOCUS
+  dataSpecVersion: '1.3'
+  dataSpecUrl: https://focus.finops.org/focus-specification/v1-3/
+publisherName: Arkema S.A.
+serviceCategory: Industrial / Chemicals
+billingModel:
+  pricingCategory: Contract
+  billingFrequency: Per-Invoice
+  billingCurrency: EUR
+  chargeCategories:
+    - Purchase
+focusColumns:
+  ServiceName: Arkema Specialty Materials
+  ServiceCategory: Industrial / Chemicals
+  ProviderName: Arkema
+  PublisherName: Arkema S.A.
+  InvoiceIssuerName: Arkema S.A.
+  BillingCurrency: EUR
+meters:
+  - name: customer_contract
+    description: Customer or distributor relationship — not a metered API unit.
+    unit: contract
+    aggregation: count
+    dimensions:
+      - customer
+      - segment
+      - region
+principles:
+  - name: Visibility
+    description: >-
+      Track Arkema and Bostik spend inside procurement and supply-chain
+      systems; there is no metered usage feed for catalog or order APIs.
+  - name: Allocation
+    description: >-
+      Allocate cost to the product line, plant or finished-good SKU that
+      consumes the polymer, adhesive, coating or intermediate.
+  - name: Optimization
+    description: >-
+      Optimize through grade rationalization, volume consolidation, regional
+      sourcing and joint sustainability projects rather than API call tuning.
+  - name: Accountability
+    description: >-
+      Procurement and R&D jointly own the supplier relationship; sustainability
+      teams co-own Scope 3 reporting tied to Arkema purchases.
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com

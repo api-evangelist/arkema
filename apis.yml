@@ -1,0 +1,317 @@
+aid: arkema
+url: >-
+  https://raw.githubusercontent.com/api-evangelist/arkema/refs/heads/main/apis.yml
+name: Arkema
+type: Index
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - Chemicals
+  - Specialty Materials
+  - Adhesives
+  - Polymers
+  - Coatings
+  - Manufacturing
+  - Sustainability
+description: >-
+  Arkema S.A. is a French specialty materials company headquartered in La Defense,
+  Paris and listed on Euronext Paris under ticker AKE. The group is organized around
+  three Specialty Materials segments — Adhesive Solutions (anchored by the Bostik
+  brand), Advanced Materials (high-performance polymers including Kynar PVDF, Rilsan
+  polyamides, Pebax elastomers, Sartomer photocurable resins) and Coating Solutions
+  (acrylic monomers, waterborne and solvent-borne resins, additives) — plus a smaller
+  Intermediates business. Arkema employs roughly 21,000 people across 55 countries
+  with about 154 production plants and 17 R&D centers, generating around EUR 9.1
+  billion in 2025 revenue. Strategy is anchored in materials science, decarbonization
+  and a validated 1.5 degree SBTi pathway toward Net-Zero by 2050. Arkema does not
+  publish a public developer portal or REST API; customer integrations and product
+  data are exchanged through commercial sales channels, the Product Finder web UI
+  and Safety Data Sheet downloads.
+created: '2026-05-23'
+modified: '2026-05-23'
+specificationVersion: '0.19'
+apis:
+  - aid: arkema:arkema-adhesive-solutions
+    name: Arkema Adhesive Solutions (Bostik)
+    tags:
+      - Adhesives
+      - Sealants
+      - Construction
+      - Packaging
+      - Hygiene
+      - Industrial Assembly
+    humanURL: https://www.bostik.com
+    properties:
+      - url: https://www.bostik.com
+        type: Documentation
+      - url: https://www.arkema.com/global/en/products/product-finder/
+        type: ProductCatalog
+    description: >-
+      Adhesives, sealants and bonding solutions delivered through the Bostik brand
+      across construction (tile adhesives, sealing, roofing, building materials),
+      flexible and rigid packaging, absorbent hygiene products, industrial assembly,
+      transportation and consumer DIY. Bostik positions itself with the tagline
+      "The Right Performance. Right Where You Are." and is operated as the Adhesive
+      Solutions segment of Arkema.
+
+  - aid: arkema:arkema-advanced-materials
+    name: Arkema Advanced Materials
+    tags:
+      - High Performance Polymers
+      - Fluoropolymers
+      - Polyamides
+      - PVDF
+      - PEKK
+      - Performance Additives
+    humanURL: https://www.arkema.com/global/en/products/product-finder/
+    properties:
+      - url: https://www.arkema.com/global/en/products/product-finder/
+        type: ProductCatalog
+      - url: https://www.arkema.com
+        type: Documentation
+    description: >-
+      High performance polymers and performance additives including Kynar PVDF
+      fluoropolymers, Rilsan and Rilsamid polyamide 11/12, Pebax thermoplastic
+      elastomers, Kepstan PEKK polyetherketoneketone, organic peroxides, molecular
+      sieves and specialty thiochemicals. Serves green energy and e-mobility
+      (batteries, hydrogen, photovoltaics), advanced electronics, healthcare and
+      efficient buildings.
+
+  - aid: arkema:arkema-coating-solutions
+    name: Arkema Coating Solutions
+    tags:
+      - Coatings
+      - Acrylic Monomers
+      - Resins
+      - UV Curable
+      - Photocure
+      - Rheology Additives
+    humanURL: https://www.arkema.com/global/en/products/product-finder/
+    properties:
+      - url: https://www.arkema.com/global/en/products/product-finder/
+        type: ProductCatalog
+      - url: https://www.arkema.com
+        type: Documentation
+    description: >-
+      Acrylic monomers, waterborne and solvent-borne coating resins, photocure
+      (UV/LED/EB) resins from the Sartomer line and Coatex rheology additives.
+      Serves decorative paint, architectural coatings, industrial coatings,
+      adhesives formulators, graphic arts, electronics and 3D printing markets.
+
+  - aid: arkema:arkema-intermediates
+    name: Arkema Intermediates
+    tags:
+      - Fluorochemicals
+      - Hydrogen Peroxide
+      - Acrylics
+      - PMMA
+      - Refrigerants
+    humanURL: https://www.arkema.com/global/en/products/product-finder/
+    properties:
+      - url: https://www.arkema.com/global/en/products/product-finder/
+        type: ProductCatalog
+      - url: https://www.arkema.com
+        type: Documentation
+    description: >-
+      Upstream and intermediates business covering fluorogases and refrigerants,
+      acrylic monomers and PMMA (Altuglas / Plexiglas), hydrogen peroxide and
+      derivatives. Supplies internal Specialty Materials segments and external
+      industrial customers.
+
+  - aid: arkema:arkema-product-safety
+    name: Arkema Product Safety and SDS
+    tags:
+      - Safety Data Sheets
+      - SDS
+      - Regulatory
+      - Compliance
+      - Chemicals
+    humanURL: https://www.arkema.com/global/en/products/product-safety/
+    properties:
+      - url: https://www.arkema.com/global/en/products/product-safety/
+        type: Documentation
+    description: >-
+      Web-based access to Safety Data Sheets, regulatory documentation and product
+      stewardship resources for Arkema chemical products. Distributed as downloadable
+      documents rather than a structured API; document access is gated through the
+      Product Safety portal.
+
+  - aid: arkema:arkema-sustainability-program
+    name: Arkema Sustainability Program
+    tags:
+      - Sustainability
+      - Net Zero
+      - SBTi
+      - Decarbonization
+      - ESG
+    humanURL: https://www.arkema.com/global/en/sustainability/
+    properties:
+      - url: https://www.arkema.com/global/en/sustainability/
+        type: Documentation
+      - url: https://www.arkema.com/global/en/investor-relations/
+        type: InvestorRelations
+    description: >-
+      Public sustainability program covering a 1.5 degree trajectory validated by
+      the Science Based Targets initiative, a Net-Zero by 2050 ambition,
+      decarbonization of manufacturing operations, sustainable solutions portfolio
+      reporting, water and waste reduction targets, and safety performance.
+      Disclosed through the Universal Registration Document and the sustainability
+      section of arkema.com.
+
+  - aid: arkema:arkema-investor-relations
+    name: Arkema Investor Relations
+    tags:
+      - Investor Relations
+      - Financial Reporting
+      - Euronext
+      - CAC 40
+    humanURL: https://www.arkema.com/global/en/investor-relations/
+    properties:
+      - url: https://www.arkema.com/global/en/investor-relations/
+        type: Documentation
+    description: >-
+      Investor relations surface for Arkema S.A., listed on Euronext Paris under
+      ticker AKE (ISIN FR0010313833) and a component of the SBF 120 index.
+      Publishes Universal Registration Document, quarterly results, capital
+      markets day materials and the 2028 ambition plan targeting roughly EUR 12
+      billion revenue and ~18 percent EBITDA margin.
+
+common:
+  - type: Website
+    url: https://www.arkema.com
+  - type: Portal
+    url: https://www.arkema.com/global/en/products/product-finder/
+  - type: Bostik
+    url: https://www.bostik.com
+  - type: InvestorRelations
+    url: https://www.arkema.com/global/en/investor-relations/
+  - type: Sustainability
+    url: https://www.arkema.com/global/en/sustainability/
+  - type: News
+    url: https://www.arkema.com/global/en/media/newslist/
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/arkema
+  - type: GitHub
+    url: https://github.com/Arkema
+  - type: Segments
+    data:
+      - name: Adhesive Solutions
+        description: >-
+          Adhesives, sealants and bonding solutions delivered through Bostik for
+          construction, packaging, hygiene, industrial assembly and consumer DIY.
+      - name: Advanced Materials
+        description: >-
+          High performance polymers (Kynar PVDF, Rilsan polyamide 11/12, Pebax,
+          Kepstan PEKK) and performance additives (organic peroxides, thiochemicals,
+          molecular sieves).
+      - name: Coating Solutions
+        description: >-
+          Acrylic monomers, coating resins, Sartomer UV/LED/EB photocure resins
+          and Coatex rheology additives for paints, coatings, adhesives, graphic
+          arts and electronics.
+      - name: Intermediates
+        description: >-
+          Upstream fluorogases, refrigerants, PMMA (Altuglas / Plexiglas) and
+          hydrogen peroxide supplying both internal segments and external
+          customers.
+  - type: Features
+    data:
+      - name: Materials Science Platform
+        description: >-
+          "Building on its unique set of expertise in materials science, Arkema
+          designs materials to address the ever-growing demand for innovative and
+          sustainable materials."
+      - name: Flagship Brand Portfolio
+        description: >-
+          Branded technology platforms including Bostik adhesives, Kynar PVDF,
+          Rilsan and Rilsamid bio-based polyamides, Pebax elastomers, Sartomer
+          photocurables, Coatex rheology modifiers and Altuglas / Plexiglas PMMA.
+      - name: Global Manufacturing Footprint
+        description: >-
+          About 154 production plants and 17 R&D centers across 55 countries,
+          enabling regional supply for global and local customers.
+      - name: Product Finder
+        description: >-
+          A-Z index and criteria-based product search across 27 product families
+          covering fluoropolymers, acrylics, amines, adhesives, coating resins,
+          peroxides, PEKK, UV/LED/EB resins and polyimides.
+      - name: Safety Data Sheets
+        description: >-
+          Product Safety portal providing regulatory documentation and SDS
+          downloads for Arkema chemical products.
+      - name: Sustainability Reporting
+        description: >-
+          Annual disclosure of Scope 1/2/3 emissions, SBTi-validated 1.5 degree
+          trajectory, Net-Zero by 2050 ambition and Sustainable Solutions
+          portfolio metrics in the Universal Registration Document.
+  - type: UseCases
+    data:
+      - name: Battery and Hydrogen Materials
+        description: >-
+          Kynar PVDF binders and separators for lithium-ion batteries, plus
+          fluoropolymer membranes for hydrogen electrolysis and fuel cells.
+      - name: Lightweight Mobility
+        description: >-
+          Rilsan polyamide 11 fuel and brake lines, Pebax elastomers for sporting
+          goods and automotive components, and PEKK composites for aerospace.
+      - name: Sustainable Building
+        description: >-
+          Bostik tile adhesives, sealants and roofing systems, plus acrylic
+          coating resins for low-VOC architectural paints.
+      - name: Consumer Goods Packaging
+        description: >-
+          Bostik packaging adhesives for flexible lamination, labels, reclosable
+          packaging and absorbent hygiene products.
+      - name: Advanced Electronics
+        description: >-
+          Photocurable Sartomer resins, fluoropolymer films and high-purity
+          intermediates for semiconductor manufacturing, displays and printed
+          electronics.
+      - name: Healthcare and Wellness
+        description: >-
+          Medical-grade Pebax, Rilsan and Kynar polymers for catheters, drug
+          delivery, prosthetics and medical packaging.
+  - type: Integrations
+    data:
+      - name: Bostik Customer Network
+        description: >-
+          Adhesive Solutions products distributed through construction merchants,
+          industrial distributors and direct OEM contracts globally.
+      - name: Specialty Polymer Distribution
+        description: >-
+          Kynar, Rilsan, Pebax, Kepstan and Sartomer product lines delivered to
+          OEMs and formulators via Arkema regional sales and authorized
+          distributors.
+      - name: Joint Ventures and Acquisitions
+        description: >-
+          Strategic acquisitions and joint ventures expanding the Adhesive
+          Solutions and Advanced Materials platforms, including Bostik (2015),
+          Den Braven, ArrMaz, Ashland Performance Adhesives and PIAM.
+      - name: Sustainability Frameworks
+        description: >-
+          Alignment with the Science Based Targets initiative (SBTi),
+          Responsible Care, EcoVadis and CDP for emissions, water and supply-chain
+          disclosure.
+  - type: Strategy
+    data:
+      - name: 2028 Ambition
+        description: >-
+          Strategic plan targeting roughly EUR 12 billion in sales and ~18
+          percent EBITDA margin by 2028, with ~4 percent organic sales growth
+          and 7-8 percent organic EBITDA growth over 2024-2028.
+      - name: Five Growth Sub-Markets
+        description: >-
+          Focused growth in green energy and e-mobility, advanced electronics,
+          sustainable lifestyle, efficient buildings and healthcare and wellness,
+          expected to grow at roughly 12 percent annually.
+      - name: Net-Zero by 2050
+        description: >-
+          Decarbonization roadmap aligned with a 1.5 degree trajectory validated
+          by SBTi, combining process electrification, low-carbon energy sourcing
+          and Scope 3 supplier engagement.
+      - name: One Arkema Operating Model
+        description: >-
+          Cross-segment "One Arkema" operating model emphasizing customer
+          intimacy, manufacturing excellence, decarbonization and digitalization.
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com

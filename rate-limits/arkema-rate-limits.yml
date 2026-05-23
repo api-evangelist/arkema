@@ -1,0 +1,45 @@
+specification: API Commons Rate Limits
+specificationVersion: '0.1'
+schema: https://raw.githubusercontent.com/api-evangelist/interface-research/main/schema/api-commons.yml#/$defs/RateLimits
+provider: Arkema
+providerId: arkema
+created: '2026-05-23'
+modified: '2026-05-23'
+reconciled: false
+tags:
+  - Chemicals
+  - Specialty Materials
+  - Rate Limiting
+description: >-
+  Arkema does not publish public rate-limit documentation. There is no
+  customer-facing REST API; product browsing through the Arkema Product Finder
+  and Bostik web properties is governed by ordinary web-application
+  throttling, while order and supply integrations are governed by the
+  underlying commercial agreement.
+notes: >-
+  No public developer rate-limit documentation — placeholder only. Volume
+  ceilings are negotiated as part of the supply contract.
+sources:
+  - https://www.arkema.com
+  - https://www.arkema.com/global/en/products/product-finder/
+  - https://www.bostik.com
+responseCodes:
+  throttled: 429
+limits:
+  - name: Customer agreement throttling
+    scope: account
+    metric: varies
+    limit: governed by customer / distributor agreement; no public numeric ceiling
+policies:
+  - name: Contract-defined throttling
+    description: >-
+      Order, forecast and catalog request volumes are governed by the Arkema or
+      Bostik customer agreement; coordinate any volume changes with the
+      regional sales or customer-service contact.
+  - name: Web property throttling
+    description: >-
+      Arkema Product Finder and bostik.com may apply standard web-application
+      throttling and bot-detection; no published numeric thresholds.
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com

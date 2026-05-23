@@ -1,0 +1,55 @@
+specification: API Commons Plans
+specificationVersion: '0.1'
+schema: https://raw.githubusercontent.com/api-evangelist/interface-research/main/schema/api-commons.yml#/$defs/Plans
+provider: Arkema
+providerId: arkema
+created: '2026-05-23'
+modified: '2026-05-23'
+reconciled: false
+tags:
+  - Chemicals
+  - Specialty Materials
+  - Adhesives
+  - Polymers
+  - Coatings
+description: >-
+  Arkema is a B2B specialty materials manufacturer and does not publish a public
+  developer pricing surface or self-service API plan. Polymer, adhesive, coating
+  and intermediates volumes are quoted through Arkema regional sales teams and
+  the Bostik commercial network under master supply or distribution agreements.
+notes: >-
+  No public developer pricing — placeholder only. Commercial relationships are
+  governed by negotiated supply agreements; pricing varies by grade, volume,
+  region and incoterm.
+sources:
+  - https://www.arkema.com
+  - https://www.arkema.com/global/en/products/product-finder/
+  - https://www.bostik.com
+  - https://www.arkema.com/global/en/investor-relations/
+plans:
+  - id: arkema-customer
+    name: Customer / Distributor Account
+    type: enterprise
+    description: >-
+      Direct customer or authorized distributor account for Arkema specialty
+      materials (Adhesive Solutions, Advanced Materials, Coating Solutions,
+      Intermediates) and Bostik adhesive products.
+    entries:
+      - label: Customer account
+        name: customer_account
+        type: subscription
+        metric: contract
+        limit: -1
+        timeFrame: year
+        geo: global
+        unit: 1
+        price: contact Arkema or Bostik sales
+        userMultiplied: false
+    elements:
+      - name: Access to Arkema specialty materials and Bostik adhesive catalog
+      - name: Technical support and application engineering
+      - name: Safety Data Sheets and regulatory documentation
+      - name: Order, delivery and invoicing handled via commercial agreement
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
