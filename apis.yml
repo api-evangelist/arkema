@@ -176,6 +176,8 @@ apis:
       billion revenue and ~18 percent EBITDA margin.
 
 common:
+  - type: DomainSecurity
+    url: security/arkema-domain-security.yml
   - type: Website
     url: https://www.arkema.com
   - type: Portal
