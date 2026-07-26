@@ -17,10 +17,6 @@ Arkema S.A. is a French specialty materials company headquartered in La Defense,
 
 ## APIs
 
-### Arkema Adhesive Solutions (Bostik)
-Adhesives, sealants and bonding solutions delivered through the Bostik brand across construction (tile adhesives, sealing, roofing, building materials), flexible and rigid packaging, absorbent hygiene products, industrial assembly, transportation and consumer DIY. Bostik positions itself with the tagline "The Right Performance. Right Where You Are." and is operated as the Adhesive Solutions segment of Arkema.
-
-**Human URL:** [https://www.bostik.com](https://www.bostik.com)
 
 #### Tags:
 
@@ -31,10 +27,6 @@ Adhesives, sealants and bonding solutions delivered through the Bostik brand acr
 - [Documentation](https://www.bostik.com)
 - [ProductCatalog](https://www.arkema.com/global/en/products/product-finder/)
 
-### Arkema Advanced Materials
-High performance polymers and performance additives including Kynar PVDF fluoropolymers, Rilsan and Rilsamid polyamide 11/12, Pebax thermoplastic elastomers, Kepstan PEKK polyetherketoneketone, organic peroxides, molecular sieves and specialty thiochemicals. Serves green energy and e-mobility (batteries, hydrogen, photovoltaics), advanced electronics, healthcare and efficient buildings.
-
-**Human URL:** [https://www.arkema.com/global/en/products/product-finder/](https://www.arkema.com/global/en/products/product-finder/)
 
 #### Tags:
 
@@ -45,10 +37,6 @@ High performance polymers and performance additives including Kynar PVDF fluorop
 - [ProductCatalog](https://www.arkema.com/global/en/products/product-finder/)
 - [Documentation](https://www.arkema.com)
 
-### Arkema Coating Solutions
-Acrylic monomers, waterborne and solvent-borne coating resins, photocure (UV/LED/EB) resins from the Sartomer line and Coatex rheology additives. Serves decorative paint, architectural coatings, industrial coatings, adhesives formulators, graphic arts, electronics and 3D printing markets.
-
-**Human URL:** [https://www.arkema.com/global/en/products/product-finder/](https://www.arkema.com/global/en/products/product-finder/)
 
 #### Tags:
 
@@ -59,10 +47,6 @@ Acrylic monomers, waterborne and solvent-borne coating resins, photocure (UV/LED
 - [ProductCatalog](https://www.arkema.com/global/en/products/product-finder/)
 - [Documentation](https://www.arkema.com)
 
-### Arkema Intermediates
-Upstream and intermediates business covering fluorogases and refrigerants, acrylic monomers and PMMA (Altuglas / Plexiglas), hydrogen peroxide and derivatives. Supplies internal Specialty Materials segments and external industrial customers.
-
-**Human URL:** [https://www.arkema.com/global/en/products/product-finder/](https://www.arkema.com/global/en/products/product-finder/)
 
 #### Tags:
 
@@ -73,10 +57,6 @@ Upstream and intermediates business covering fluorogases and refrigerants, acryl
 - [ProductCatalog](https://www.arkema.com/global/en/products/product-finder/)
 - [Documentation](https://www.arkema.com)
 
-### Arkema Product Safety and SDS
-Web-based access to Safety Data Sheets, regulatory documentation and product stewardship resources for Arkema chemical products. Distributed as downloadable documents rather than a structured API; document access is gated through the Product Safety portal.
-
-**Human URL:** [https://www.arkema.com/global/en/products/product-safety/](https://www.arkema.com/global/en/products/product-safety/)
 
 #### Tags:
 
@@ -86,10 +66,6 @@ Web-based access to Safety Data Sheets, regulatory documentation and product ste
 
 - [Documentation](https://www.arkema.com/global/en/products/product-safety/)
 
-### Arkema Sustainability Program
-Public sustainability program covering a 1.5 degree trajectory validated by the Science Based Targets initiative, a Net-Zero by 2050 ambition, decarbonization of manufacturing operations, sustainable solutions portfolio reporting, water and waste reduction targets, and safety performance. Disclosed through the Universal Registration Document and the sustainability section of arkema.com.
-
-**Human URL:** [https://www.arkema.com/global/en/sustainability/](https://www.arkema.com/global/en/sustainability/)
 
 #### Tags:
 
@@ -100,10 +76,6 @@ Public sustainability program covering a 1.5 degree trajectory validated by the 
 - [Documentation](https://www.arkema.com/global/en/sustainability/)
 - [InvestorRelations](https://www.arkema.com/global/en/investor-relations/)
 
-### Arkema Investor Relations
-Investor relations surface for Arkema S.A., listed on Euronext Paris under ticker AKE (ISIN FR0010313833) and a component of the SBF 120 index. Publishes Universal Registration Document, quarterly results, capital markets day materials and the 2028 ambition plan targeting roughly EUR 12 billion revenue and ~18 percent EBITDA margin.
-
-**Human URL:** [https://www.arkema.com/global/en/investor-relations/](https://www.arkema.com/global/en/investor-relations/)
 
 #### Tags:
 
