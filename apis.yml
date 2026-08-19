@@ -34,7 +34,7 @@ description: Arkema S.A. is a French specialty materials company headquartered i
   through commercial sales channels, the Product Finder web UI and Safety Data Sheet downloads.
 created: '2026-05-23'
 modified: '2026-07-25'
-specificationVersion: '0.19'
+specificationVersion: '0.23'
 apis: []
 common:
 - type: DomainSecurity
