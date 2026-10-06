@@ -44,10 +44,12 @@ description: Arkema S.A. is a French specialty materials company headquartered i
   Arkema does not publish a public developer portal or REST API; customer integrations and product data are exchanged
   through commercial sales channels, the Product Finder web UI and Safety Data Sheet downloads.
 created: '2026-05-23'
-modified: '2026-07-25'
+modified: '2026-10-06'
 specificationVersion: '0.23'
 apis: []
 common:
+- url: https://www.arkema.com/global/en/media/newsroom/
+  type: Blog
 - type: DomainSecurity
   url: security/arkema-domain-security.yml
 - type: Website
