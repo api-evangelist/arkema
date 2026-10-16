@@ -1,0 +1,14 @@
+{
+  "repo": "arkema",
+  "feeds": [
+    {
+      "source": "https://www.arkema.com/global/en/media/newsroom/",
+      "feed_url": "https://www.arkema.com/global/en/media/newsroom/",
+      "title": "",
+      "saved": 0,
+      "method": "none"
+    }
+  ],
+  "post_count": 0,
+  "fetched": "2026-10-10T13:15:00Z"
+}
