@@ -1,0 +1,104 @@
+generated: '2026-10-20'
+method: derived
+source: the pre-flight dossier, apis.yml pointers, spec servers, well-known, vendors -- nothing fetched here
+generator: derive-hosts.py
+summary:
+  hosts: 8
+  own: 4
+  other_domain: 2
+  platform: 2
+  roles:
+  - api
+  - other
+  - website
+hosts:
+- host: api.arkema.com
+  found_by:
+  - contract-discovery
+  types: []
+  serves: []
+  registrable_domain: arkema.com
+  role: api
+  relation: own
+- host: api.bostik.com
+  found_by:
+  - contract-discovery
+  types: []
+  serves: []
+  registrable_domain: bostik.com
+  role: api
+  relation: other-domain
+- host: github.com
+  found_by:
+  - pointer
+  types:
+  - GitHub
+  serves: []
+  registrable_domain: github.com
+  role: other
+  relation: platform
+- host: jobs.arkema.com
+  found_by:
+  - probed
+  - site-links
+  - contract-discovery
+  - well-known
+  types: []
+  serves: []
+  registrable_domain: arkema.com
+  role: other
+  relation: own
+- host: my.arkema.com
+  found_by:
+  - probed
+  - site-links
+  - well-known
+  types: []
+  serves: []
+  registrable_domain: arkema.com
+  role: other
+  relation: own
+- host: www.arkema.com
+  found_by:
+  - pointer
+  - probed
+  - docs-index
+  - contract-discovery
+  - well-known
+  - vendor-detect
+  types:
+  - Documentation
+  - Blog
+  - Website
+  - Portal
+  - InvestorRelations
+  - News
+  - ProductPage
+  serves:
+  - docs
+  - cdn
+  vendor: cloudflare
+  registrable_domain: arkema.com
+  role: website
+  relation: own
+- host: www.bostik.com
+  found_by:
+  - pointer
+  - probed
+  - contract-discovery
+  - well-known
+  types:
+  - Bostik
+  serves: []
+  registrable_domain: bostik.com
+  role: other
+  relation: other-domain
+- host: www.linkedin.com
+  found_by:
+  - pointer
+  types:
+  - LinkedIn
+  serves: []
+  registrable_domain: linkedin.com
+  role: other
+  relation: platform

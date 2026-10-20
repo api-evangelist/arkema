@@ -1,0 +1,16 @@
+generated: '2026-10-20'
+method: none
+source:
+- https://zapier.com/apps/arkema/integrations
+- https://n8n.io/integrations/arkema/
+- https://composio.dev/toolkits/arkema
+- https://monid.ai/tools/arkema
+checked:
+- https://composio.dev/toolkits/arkema
+- https://monid.ai/tools/arkema
+- https://n8n.io/integrations/arkema/
+- https://zapier.com/apps/arkema/integrations
+summary: null
+marketplace_apps: []
+edges: []
+templates: []

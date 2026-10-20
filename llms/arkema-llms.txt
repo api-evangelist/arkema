@@ -1,0 +1,1060 @@
+<!DOCTYPE html>
+<html class="html5" xml:lang="en-US" lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+
+        <head>
+            <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+            <meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
+            <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+                        <link type="text/css" class="keepscript" rel="stylesheet" href="https://jobs.arkema.com/platform/bootstrap/3.4.8_NES/css/bootstrap.min.css" />
+                            <link type="text/css" rel="stylesheet" href="/platform/css/j2w/min/bootstrapV3.global.responsive.min.css?h=275f70e9" />
+                            <link type="text/css" rel="stylesheet" href="/platform/csb/css/navbar-fixed-top.css" />
+                
+                <script type="text/javascript" src="/platform/js/j2w/j2w.fallbacks.js"></script>
+                
+                
+                <script type="text/javascript" src="https://performancemanager5.successfactors.eu/verp/vmod_v1/ui/extlib/jquery_3.5.1/jquery.js" onerror="loadFallbacks('/platform/js/jquery/jquery-3.5.1.min.js', '/platform/js/jquery/jquery-migrate-3.1.0.min.js')"></script>
+                <script type="text/javascript" src="https://performancemanager5.successfactors.eu/verp/vmod_v1/ui/extlib/jquery_3.5.1/jquery-migrate.js"></script>
+            <script type="text/javascript" src="/platform/js/jquery/jquery-migrate-1.4.1.js"></script>
+            <title>Jobs at Arkema</title>
+
+    <meta name="description" content="Apply online for jobs at Arkema: Chemistry Jobs, Engineering Jobs, HES Jobs, Sales Jobs, and more." />
+    <meta name="title" content="Jobs at Arkema" />
+    <meta name="keywords" content="Apply online for Chemistry Jobs, Engineering Jobs, HES Jobs, Sales Jobs" />
+
+    <meta prefix="og: http://ogp.me/ns#" property="og:title" content="Jobs at Arkema" />
+    <meta prefix="og: http://ogp.me/ns#" property="og:description" content="Apply online for jobs at Arkema: Chemistry Jobs, Engineering Jobs, HES Jobs, Sales Jobs, and more." />
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:title" content="Jobs at Arkema" />
+    <meta name="twitter:description" content="Apply online for jobs at Arkema: Chemistry Jobs, Engineering Jobs, HES Jobs, Sales Jobs, and more." />
+                <link type="text/css" rel="stylesheet" href="//rmkcdn.successfactors.com/11b540c0/a40c1b3b-3a08-4fbd-ae6b-5.css" />
+                            <link type="text/css" rel="stylesheet" href="/platform/csb/css/header1.css?h=275f70e9" />
+                            <link type="text/css" rel="stylesheet" href="/platform/css/j2w/min/sitebuilderframework.min.css?h=275f70e9" />
+                            <link type="text/css" rel="stylesheet" href="/platform/css/j2w/min/BS3ColumnizedSearch.min.css?h=275f70e9" />
+                            <link type="text/css" rel="stylesheet" href="/platform/css/search/BS3ColumnizedSearchHideLabels.css?h=275f70e9" />
+                            <link type="text/css" rel="stylesheet" href="/platform/fontawesome4.7/css/font-awesome-4.7.0.min.css?h=275f70e9" /><script type="text/javascript"></script>
+
+<style>
+@media screen and (min-width: 1200px){
+.container {
+    width: 1200px !important;
+    margin: 0px auto !important;
+    min-width: 1200px !important;
+    padding: 10px 10px !important;
+}
+}
+#header .ukCookiePolicy .container {font-size:0.8em !important; padding:1px 20px 0px 20px !important;}
+#header .ukCookiePolicy .container  {margin:auto !important;}
+#cookie-acknowledge, #cookie-close {font-size:1em; float:right;}
+</style>
+
+        
+        <link rel="shortcut icon" href="//rmkcdn.successfactors.com/11b540c0/4edfd936-78cf-485a-9954-d.png" type="image/x-icon" />
+            <style id="antiClickjack" type="text/css">body{display:none !important;}</style>
+            <script type="text/javascript" id="antiClickJackScript">
+                if (self === top) {
+                    var antiClickjack = document.getElementById("antiClickjack");
+                    antiClickjack.parentNode.removeChild(antiClickjack);
+                } else {
+                    top.location = self.location;
+                }
+            </script>
+        </head>
+
+        <body class="coreCSB home-page body   body" id="body">
+
+        <div id="outershell" class="outershell">
+
+    <div id="header" class="header headermain navbar navbar-default navbar-fixed-top" role="banner">
+            <h1 style="font-size: 0px; margin: 0px;">Jobs at Arkema</h1>
+            <div id="headerbordertop" class="headerbordertop"></div>
+
+    <div class="ukCookiePolicy" style="display:none;">
+        <div class="centered container "><p style="text-align: center;">By continuing to use this website you consent to our use of cookies. To learn more, please read our&nbsp;<a href="https://arkema.valhalla12.stage.jobs2web.com/content/cookies/?locale=en_US" target="_blank" title="">policy on the use of cookies</a>.</p> 
+            <br />
+            <button id="cookie-acknowledge" tabindex="1" title="Accept" class="btn bannerButton" aria-label="Accept Use Of Cookies">
+                Accept</button>
+            <button id="cookie-close" tabindex="1" title="Close" class="btn bannerButton" aria-label="Close Cookies Notice">
+                Close</button>
+        </div>
+    </div>
+        <script type="text/javascript">
+            //<![CDATA[
+            $(function()
+            {
+                /* Using 'skipLinkSafari' to include CSS styles specific to Safari. */
+                if (navigator.userAgent.indexOf('Safari') != -1 && navigator.userAgent.indexOf('Chrome') == -1) {
+                    $("#skipLink").attr('class', 'skipLinkSafari');
+                }
+            });
+            //]]>
+             $(document).ready(function() {
+                $("#skipLink").click(function (e) {
+                    e.preventDefault();
+                    $("#content").focus().css('outline','none');
+                    var offset = $(':target').offset();
+                    var fixedHeaderHeight = $("#header").innerHeight();
+                    var scrollto = offset.top - fixedHeaderHeight;
+                    $('html, body').animate({scrollTop:scrollto}, 0);
+                });
+              });
+
+        </script>
+        <div id="skip">
+            <a href="#content" id="skipLink" class="skipLink" title="Skip to main content"><span>Skip to main content</span></a>
+        </div>
+
+        <div class="limitwidth">
+            <div class="menu desktop upper">
+                <div class="inner" role="navigation" aria-label="Header Menu">
+                        <a href="https://jobs.arkema.com/?locale=en_US" title="Arkema Career Home" style="display:inline-block">
+                            <img class="logo" src="//rmkcdn.successfactors.com/11b540c0/56323e4b-9359-421c-a44c-2.png" alt="arkema innovative chemistry logo" />
+                        </a>
+                    <ul class="nav nav-pills" role="list">
+        <li class="dropdown">
+            <a id="header1top0MenuButton" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-expanded="false" title="About us" aria-controls="header1top0">
+                ABOUT US <b class="caret"></b>
+            </a>
+            <ul class="dropdown-menu company-dropdown headerdropdown" id="header1top0" role="menu" aria-labelledby="header1top0MenuButton">
+                        <li role="none"><a role="menuitem" href="https://www.arkema.com/global/en/careers/join-us/why-choosing-arkema/" title="Why Arkema" target="_blank" tabindex="0">WHY ARKEMA?</a></li>
+                        <li role="none"><a role="menuitem" href="https://www.arkema.com/global/en/arkema-group/" title="Arkema Presentation" target="_blank" tabindex="1">ARKEMA PRESENTATION</a></li>
+                        <li role="none"><a role="menuitem" href="https://www.arkema.com/global/en/arkema-group/our-materials/" title="Arkema products" target="_blank" tabindex="2">ARKEMA PRODUCTS</a></li>
+                        <li role="none"><a role="menuitem" href="https://www.arkema.com/global/en/social-responsibility/" title="Social Responsibility" target="_blank" tabindex="3">SOCIAL RESPONSIBILITY</a></li>
+                        <li role="none"><a role="menuitem" href="https://www.arkema.com/global/en/careers/our-professions/" title="Testimonials" target="_blank" tabindex="4">TESTIMONIALS</a></li>
+            </ul>
+        </li>
+        <li class="dropdown">
+            <a id="header1top1MenuButton" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-expanded="false" title="Locations" aria-controls="header1top1">
+                LOCATIONS <b class="caret"></b>
+            </a>
+            <ul class="dropdown-menu company-dropdown headerdropdown" id="header1top1" role="menu" aria-labelledby="header1top1MenuButton">
+                        <li role="none"><a role="menuitem" href="https://jobs.arkema.com/search/?createNewAlert=false&amp;q=&amp;locationsearch=&quot;United+States&quot;&amp;optionsFacetsDD_location=" title="United States " tabindex="0">UNITED STATES</a></li>
+                        <li role="none"><a role="menuitem" href="https://jobs.arkema.com/search/?createNewAlert=false&amp;q=&amp;locationsearch=&quot;United+Kingdom&quot;&amp;optionsFacetsDD_location=" title="United Kindgom" tabindex="1">UNITED KINGDOM</a></li>
+                        <li role="none"><a role="menuitem" href=" https://jobs.arkema.com/search/?createNewAlert=false&amp;q=&amp;locationsearch=Australia&amp;optionsFacetsDD_location=" title="Australia" target="_blank" tabindex="2">AUSTRALIA</a></li>
+                        <li role="none"><a role="menuitem" href="https://jobs.arkema.com/search/?createNewAlert=false&amp;q=&amp;locationsearch=Taiwan&amp;optionsFacetsDD_location=" title="Taiwan" tabindex="3">TAIWAN</a></li>
+                        <li role="none"><a role="menuitem" href="https://jobs.arkema.com/search/?createNewAlert=false&amp;q=&amp;locationsearch=Brazil&amp;optionsFacetsDD_location=" title="Brazil" tabindex="4">BRAZIL</a></li>
+                        <li role="none"><a role="menuitem" href="https://jobs.arkema.com/search/?createNewAlert=false&amp;q=&amp;locationsearch=China&amp;optionsFacetsDD_location=" title="China Mainland" tabindex="5">CHINA MAINLAND</a></li>
+                        <li role="none"><a role="menuitem" href="https://jobs.arkema.com/search/?createNewAlert=false&amp;q=&amp;locationsearch=&quot;Hong+Kong&quot;&amp;optionsFacetsDD_location=" title="Hong Kong" tabindex="6">HONG KONG</a></li>
+                        <li role="none"><a role="menuitem" href="https://jobs.arkema.com/search/?createNewAlert=false&amp;q=&amp;locationsearch=Singapore&amp;optionsFacetsDD_location=" title="Singapore" tabindex="7">SINGAPORE</a></li>
+                        <li role="none"><a role="menuitem" href="https://jobs.arkema.com/search/?createNewAlert=false&amp;q=&amp;locationsearch=France&amp;optionsFacetsDD_location=" title="France" tabindex="8">FRANCE</a></li>
+                        <li role="none"><a role="menuitem" href="https://jobs.arkema.com/search/?createNewAlert=false&amp;q=&amp;locationsearch=Germany&amp;optionsFacetsDD_location=" title="Germany" tabindex="9">GERMANY</a></li>
+                        <li role="none"><a role="menuitem" href="https://jobs.arkema.com/search/?createNewAlert=false&amp;q=&amp;locationsearch=Italy&amp;optionsFacetsDD_location=" title="Italy" tabindex="10">ITALY</a></li>
+                        <li role="none"><a role="menuitem" href="https://jobs.arkema.com/search/?createNewAlert=false&amp;q=&amp;locationsearch=Mexico&amp;optionsFacetsDD_location=" title="Mexico" tabindex="11">MEXICO</a></li>
+                        <li role="none"><a role="menuitem" href="https://jobs.arkema.com/search/?createNewAlert=false&amp;q=&amp;locationsearch=Netherlands&amp;optionsFacetsDD_location=" title="Netherlands" tabindex="12">NETHERLANDS</a></li>
+                        <li role="none"><a role="menuitem" href="https://jobs.arkema.com/search/?createNewAlert=false&amp;q=&amp;locationsearch=&quot;New+Zealand&quot;&amp;optionsFacetsDD_location=" title="New Zealand" target="_blank" tabindex="13">NEW ZEALAND</a></li>
+                        <li role="none"><a role="menuitem" href="https://jobs.arkema.com/search/?createNewAlert=false&amp;q=&amp;locationsearch=Philippines&amp;optionsFacetsDD_location=" title="Philippines" target="_blank" tabindex="14">PHILIPPINES</a></li>
+                        <li role="none"><a role="menuitem" href="https://jobs.arkema.com/search/?createNewAlert=false&amp;q=&amp;locationsearch=Japan&amp;optionsFacetsDD_location=" title="Japan" tabindex="15">JAPAN</a></li>
+                        <li role="none"><a role="menuitem" href="https://jobs.arkema.com/search/?createNewAlert=false&amp;q=&amp;locationsearch=India&amp;optionsFacetsDD_location=" title="India" tabindex="16">INDIA</a></li>
+                        <li role="none"><a role="menuitem" href="https://jobs.arkema.com/search/?createNewAlert=false&amp;q=&amp;locationsearch=&quot;South+Korea&quot;&amp;optionsFacetsDD_location=" title="South Korea" tabindex="17">SOUTH KOREA</a></li>
+                        <li role="none"><a role="menuitem" href="https://jobs.arkema.com/search/?createNewAlert=false&amp;q=&amp;locationsearch=Russia&amp;optionsFacetsDD_location=" title="Russia" target="_blank" tabindex="18">Russia</a></li>
+                        <li role="none"><a role="menuitem" href="https://jobs.arkema.com/search/?createNewAlert=false&amp;q=&amp;locationsearch=Poland&amp;optionsFacetsDD_location=" title="Poland" target="_blank" tabindex="19">Poland</a></li>
+                        <li role="none"><a role="menuitem" href="https://jobs.arkema.com/search/?createNewAlert=false&amp;q=&amp;locationsearch=Romania&amp;optionsFacetsDD_location=" title="Romania" tabindex="20">ROMANIA</a></li>
+                        <li role="none"><a role="menuitem" href="https://jobs.arkema.com/search/?createNewAlert=false&amp;q=&amp;locationsearch=Turkey&amp;optionsFacetsDD_location=" title="Turkey" tabindex="21">TURKEY</a></li>
+                        <li role="none"><a role="menuitem" href="https://jobs.arkema.com/search/?createNewAlert=false&amp;q=&amp;locationsearch=Argentina&amp;optionsFacetsDD_location=" title="Argentina" target="_blank" tabindex="22">ARGENTINA</a></li>
+            </ul>
+        </li>
+        <li><a href="/go/Jobs-for-students/4221601/" title="Jobs for students">JOBS FOR STUDENTS</a></li>
+        <li><a href="https://jobs.arkema.com/search/?jobAlerts=true&amp;rcmLoggedIn=true&amp;micrositeid= " title="CREATE JOB ALERT">JOB ALERT</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+
+        <div class="menu mobile upper">
+                <a href="https://jobs.arkema.com/?locale=en_US" title="Arkema Career Home">
+                    <img class="logo" src="//rmkcdn.successfactors.com/11b540c0/56323e4b-9359-421c-a44c-2.png" alt="arkema innovative chemistry logo" />
+                </a>
+            <div class="nav">
+                    <div class="dropdown mobile-search">
+                        <button id="searchToggleBtn" type="button" title="Search" aria-label="Search" class="dropdown-toggle" data-toggle="collapse" data-target="#searchSlideNav"><span class="mobilelink fa fa-search"></span></button>
+                        <div id="searchSlideNav" class="dropdown-menu search-collapse">
+
+        <div class="well well-small searchwell">
+            <form class="form-inline jobAlertsSearchForm" name="keywordsearch" method="get" action="/search/" xml:lang="en-US" lang="en-US" style="margin: 0;" role="search">
+                <input name="createNewAlert" type="hidden" value="false" />
+                <div class="container-fluid">
+                    <div class="row columnizedSearchForm">
+                        <div class="column col-md-9">
+                            <div class="fieldContainer row">
+                                    <div class="col-md-6 rd-keywordsearch">
+                                            <span class="lbl" aria-hidden="true">Search by Keyword</span>
+
+                                        <i class="keywordsearch-icon"></i>
+                                        <input type="text" class="keywordsearch-q columnized-search" name="q" placeholder="Search by Keyword" maxlength="50" aria-label="Search by Keyword" />
+
+                                    </div>
+                                    <div class="col-md-6 rd-locationsearch">
+                                            <span class="lbl" aria-hidden="true">Search by Location</span>
+
+                                        <i class="locationsearch-icon"></i>
+                                        <input type="text" class="keywordsearch-locationsearch columnized-search" name="locationsearch" placeholder="Search by Location" maxlength="50" aria-label="Search by Location" />
+                                    </div>
+                            </div>
+                        </div>
+                        <div class="rd-searchbutton col-md-2">
+                            <div class="row emptylabelsearchspace labelrow">
+                                 
+                            </div>
+                            <div class="row">
+                                <div class="col-md-12 col-sm-12 col-xs-12 search-submit">
+                                            <input type="submit" class="btn keywordsearch-button" value="View Open Positions" />
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+            </form>
+        </div>
+                        </div>
+                    </div>
+                <div class="dropdown mobile-nav">
+                    <a id="hamburgerToggleBtn" href="#" title="Menu" aria-label="Menu" class="dropdown-toggle" aria-controls="nav-collapse-design1" aria-expanded="false" role="button" data-toggle="collapse" data-target="#nav-collapse-design1"><span class="mobilelink fa fa-bars"></span></a>
+                    <ul id="nav-collapse-design1" class="dropdown-menu nav-collapse">
+        <li class="dropdown">
+            <a id="header1bot0MenuButton" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-expanded="false" title="About us" aria-controls="header1bot0">
+                ABOUT US <b class="caret"></b>
+            </a>
+            <ul class="dropdown-menu company-dropdown headerdropdown" id="header1bot0" role="menu" aria-labelledby="header1bot0MenuButton">
+                        <li role="none"><a role="menuitem" href="https://www.arkema.com/global/en/careers/join-us/why-choosing-arkema/" title="Why Arkema" target="_blank" tabindex="0">WHY ARKEMA?</a></li>
+                        <li role="none"><a role="menuitem" href="https://www.arkema.com/global/en/arkema-group/" title="Arkema Presentation" target="_blank" tabindex="1">ARKEMA PRESENTATION</a></li>
+                        <li role="none"><a role="menuitem" href="https://www.arkema.com/global/en/arkema-group/our-materials/" title="Arkema products" target="_blank" tabindex="2">ARKEMA PRODUCTS</a></li>
+                        <li role="none"><a role="menuitem" href="https://www.arkema.com/global/en/social-responsibility/" title="Social Responsibility" target="_blank" tabindex="3">SOCIAL RESPONSIBILITY</a></li>
+                        <li role="none"><a role="menuitem" href="https://www.arkema.com/global/en/careers/our-professions/" title="Testimonials" target="_blank" tabindex="4">TESTIMONIALS</a></li>
+            </ul>
+        </li>
+        <li class="dropdown">
+            <a id="header1bot1MenuButton" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-expanded="false" title="Locations" aria-controls="header1bot1">
+                LOCATIONS <b class="caret"></b>
+            </a>
+            <ul class="dropdown-menu company-dropdown headerdropdown" id="header1bot1" role="menu" aria-labelledby="header1bot1MenuButton">
+                        <li role="none"><a role="menuitem" href="https://jobs.arkema.com/search/?createNewAlert=false&amp;q=&amp;locationsearch=&quot;United+States&quot;&amp;optionsFacetsDD_location=" title="United States " tabindex="0">UNITED STATES</a></li>
+                        <li role="none"><a role="menuitem" href="https://jobs.arkema.com/search/?createNewAlert=false&amp;q=&amp;locationsearch=&quot;United+Kingdom&quot;&amp;optionsFacetsDD_location=" title="United Kindgom" tabindex="1">UNITED KINGDOM</a></li>
+                        <li role="none"><a role="menuitem" href=" https://jobs.arkema.com/search/?createNewAlert=false&amp;q=&amp;locationsearch=Australia&amp;optionsFacetsDD_location=" title="Australia" target="_blank" tabindex="2">AUSTRALIA</a></li>
+                        <li role="none"><a role="menuitem" href="https://jobs.arkema.com/search/?createNewAlert=false&amp;q=&amp;locationsearch=Taiwan&amp;optionsFacetsDD_location=" title="Taiwan" tabindex="3">TAIWAN</a></li>
+                        <li role="none"><a role="menuitem" href="https://jobs.arkema.com/search/?createNewAlert=false&amp;q=&amp;locationsearch=Brazil&amp;optionsFacetsDD_location=" title="Brazil" tabindex="4">BRAZIL</a></li>
+                        <li role="none"><a role="menuitem" href="https://jobs.arkema.com/search/?createNewAlert=false&amp;q=&amp;locationsearch=China&amp;optionsFacetsDD_location=" title="China Mainland" tabindex="5">CHINA MAINLAND</a></li>
+                        <li role="none"><a role="menuitem" href="https://jobs.arkema.com/search/?createNewAlert=false&amp;q=&amp;locationsearch=&quot;Hong+Kong&quot;&amp;optionsFacetsDD_location=" title="Hong Kong" tabindex="6">HONG KONG</a></li>
+                        <li role="none"><a role="menuitem" href="https://jobs.arkema.com/search/?createNewAlert=false&amp;q=&amp;locationsearch=Singapore&amp;optionsFacetsDD_location=" title="Singapore" tabindex="7">SINGAPORE</a></li>
+                        <li role="none"><a role="menuitem" href="https://jobs.arkema.com/search/?createNewAlert=false&amp;q=&amp;locationsearch=France&amp;optionsFacetsDD_location=" title="France" tabindex="8">FRANCE</a></li>
+                        <li role="none"><a role="menuitem" href="https://jobs.arkema.com/search/?createNewAlert=false&amp;q=&amp;locationsearch=Germany&amp;optionsFacetsDD_location=" title="Germany" tabindex="9">GERMANY</a></li>
+                        <li role="none"><a role="menuitem" href="https://jobs.arkema.com/search/?createNewAlert=false&amp;q=&amp;locationsearch=Italy&amp;optionsFacetsDD_location=" title="Italy" tabindex="10">ITALY</a></li>
+                        <li role="none"><a role="menuitem" href="https://jobs.arkema.com/search/?createNewAlert=false&amp;q=&amp;locationsearch=Mexico&amp;optionsFacetsDD_location=" title="Mexico" tabindex="11">MEXICO</a></li>
+                        <li role="none"><a role="menuitem" href="https://jobs.arkema.com/search/?createNewAlert=false&amp;q=&amp;locationsearch=Netherlands&amp;optionsFacetsDD_location=" title="Netherlands" tabindex="12">NETHERLANDS</a></li>
+                        <li role="none"><a role="menuitem" href="https://jobs.arkema.com/search/?createNewAlert=false&amp;q=&amp;locationsearch=&quot;New+Zealand&quot;&amp;optionsFacetsDD_location=" title="New Zealand" target="_blank" tabindex="13">NEW ZEALAND</a></li>
+                        <li role="none"><a role="menuitem" href="https://jobs.arkema.com/search/?createNewAlert=false&amp;q=&amp;locationsearch=Philippines&amp;optionsFacetsDD_location=" title="Philippines" target="_blank" tabindex="14">PHILIPPINES</a></li>
+                        <li role="none"><a role="menuitem" href="https://jobs.arkema.com/search/?createNewAlert=false&amp;q=&amp;locationsearch=Japan&amp;optionsFacetsDD_location=" title="Japan" tabindex="15">JAPAN</a></li>
+                        <li role="none"><a role="menuitem" href="https://jobs.arkema.com/search/?createNewAlert=false&amp;q=&amp;locationsearch=India&amp;optionsFacetsDD_location=" title="India" tabindex="16">INDIA</a></li>
+                        <li role="none"><a role="menuitem" href="https://jobs.arkema.com/search/?createNewAlert=false&amp;q=&amp;locationsearch=&quot;South+Korea&quot;&amp;optionsFacetsDD_location=" title="South Korea" tabindex="17">SOUTH KOREA</a></li>
+                        <li role="none"><a role="menuitem" href="https://jobs.arkema.com/search/?createNewAlert=false&amp;q=&amp;locationsearch=Russia&amp;optionsFacetsDD_location=" title="Russia" target="_blank" tabindex="18">Russia</a></li>
+                        <li role="none"><a role="menuitem" href="https://jobs.arkema.com/search/?createNewAlert=false&amp;q=&amp;locationsearch=Poland&amp;optionsFacetsDD_location=" title="Poland" target="_blank" tabindex="19">Poland</a></li>
+                        <li role="none"><a role="menuitem" href="https://jobs.arkema.com/search/?createNewAlert=false&amp;q=&amp;locationsearch=Romania&amp;optionsFacetsDD_location=" title="Romania" tabindex="20">ROMANIA</a></li>
+                        <li role="none"><a role="menuitem" href="https://jobs.arkema.com/search/?createNewAlert=false&amp;q=&amp;locationsearch=Turkey&amp;optionsFacetsDD_location=" title="Turkey" tabindex="21">TURKEY</a></li>
+                        <li role="none"><a role="menuitem" href="https://jobs.arkema.com/search/?createNewAlert=false&amp;q=&amp;locationsearch=Argentina&amp;optionsFacetsDD_location=" title="Argentina" target="_blank" tabindex="22">ARGENTINA</a></li>
+            </ul>
+        </li>
+        <li><a href="/go/Jobs-for-students/4221601/" title="Jobs for students">JOBS FOR STUDENTS</a></li>
+        <li><a href="https://jobs.arkema.com/search/?jobAlerts=true&amp;rcmLoggedIn=true&amp;micrositeid= " title="CREATE JOB ALERT">JOB ALERT</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="lower headersubmenu">
+            <div class="inner limitwidth">
+                <div class="links">
+                        <div id="langListContainer" class="language node dropdown header-one headerlocaleselector">
+        <a id="langDropDownToggleBtn" class="dropdown-toggle languageselector" role="button" aria-expanded="false" data-toggle="dropdown" href="#" aria-controls="langListDropDown">Language <span class="caret"></span></a>
+        <ul id="langListDropDown" role="menu" aria-labelledby="langDropDownToggleBtn" class="dropdown-menu company-dropdown headerdropdown">
+                <li role="none">
+                    <a role="menuItem" href="https://jobs.arkema.com/llms.txt?locale=ar_SA" lang="ar-SA">العَرَبِيَّة (السعودية)</a>
+                </li>
+                <li role="none">
+                    <a role="menuItem" href="https://jobs.arkema.com/llms.txt?locale=de_DE" lang="de-DE">Deutsch (Deutschland)</a>
+                </li>
+                <li role="none">
+                    <a role="menuItem" href="https://jobs.arkema.com/llms.txt?locale=en_US" lang="en-US">English (United States)</a>
+                </li>
+                <li role="none">
+                    <a role="menuItem" href="https://jobs.arkema.com/llms.txt?locale=es_ES" lang="es-ES">Español (España)</a>
+                </li>
+                <li role="none">
+                    <a role="menuItem" href="https://jobs.arkema.com/llms.txt?locale=fr_FR" lang="fr-FR">Français (France)</a>
+                </li>
+                <li role="none">
+                    <a role="menuItem" href="https://jobs.arkema.com/llms.txt?locale=it_IT" lang="it-IT">Italiano (Italia)</a>
+                </li>
+                <li role="none">
+                    <a role="menuItem" href="https://jobs.arkema.com/llms.txt?locale=ja_JP" lang="ja-JP">日本語 (日本)</a>
+                </li>
+                <li role="none">
+                    <a role="menuItem" href="https://jobs.arkema.com/llms.txt?locale=ko_KR" lang="ko-KR">한국어 (대한민국)</a>
+                </li>
+                <li role="none">
+                    <a role="menuItem" href="https://jobs.arkema.com/llms.txt?locale=nl_NL" lang="nl-NL">Nederlands (Nederland)</a>
+                </li>
+                <li role="none">
+                    <a role="menuItem" href="https://jobs.arkema.com/llms.txt?locale=pl_PL" lang="pl-PL">Polski</a>
+                </li>
+                <li role="none">
+                    <a role="menuItem" href="https://jobs.arkema.com/llms.txt?locale=pt_PT" lang="pt-PT">Português (Portugal)</a>
+                </li>
+                <li role="none">
+                    <a role="menuItem" href="https://jobs.arkema.com/llms.txt?locale=ro_RO" lang="ro-RO">Limba Română (România)</a>
+                </li>
+                <li role="none">
+                    <a role="menuItem" href="https://jobs.arkema.com/llms.txt?locale=tr_TR" lang="tr-TR">Türkçe (Türkiye)</a>
+                </li>
+                <li role="none">
+                    <a role="menuItem" href="https://jobs.arkema.com/llms.txt?locale=zh_CN" lang="zh-CN">简体中文 (中国大陆)</a>
+                </li>
+        </ul>
+                        </div>
+                        <div class="profile node">
+			<div class="profileWidget">
+					<a href="#" onclick="j2w.TC.handleViewProfileAction(event)" xml:lang="en-US" lang="en-US" style=" ">View Profile</a>
+			</div>
+                        </div>
+
+
+
+
+
+                </div>
+            </div>
+        </div>
+    </div>
+    <style type="text/css">
+        #content {
+            padding-top: 5px;
+        }
+    </style>
+
+    <script type="text/javascript" classhtmlattribute="keepscript" src="/platform/js/j2w/j2w.bootstrap.collapse.js"></script>
+    <script type="text/javascript" classhtmlattribute="keepscript" src="/platform/js/j2w/j2w.bootstrap.dropdown.js"></script>
+        
+        <script type="text/javascript">
+            //<![CDATA[
+                $(document).on('resizeFixedHeader', function () {
+                    $('#fixedHeaderInlineStyle').remove();
+                    $("<style type='text/css' id='fixedHeaderInlineStyle'>@media only screen and (min-width: 767px) { body { padding-top: " + $('#header').outerHeight(true) + "px;} }</style>").appendTo("head");
+                }).trigger('resizeFixedHeader');
+                $(window).on( "ready", function() {
+                    $(document).trigger('resizeFixedHeader');
+                });
+                $(window).on( "load", function() {
+                    $(document).trigger('resizeFixedHeader');
+                });
+            //]]>
+        </script>
+            <div id="innershell" class="innershell">
+                <div id="content" tabindex="-1" class="content" role="main">
+                    <div class="inner">
+    <div class="row displayDTM " role="img" style=" ">
+        <div class="col-xs-12 center scaled backgroundimage2a869651-0b88-4536-abae-4 large-image-component" style="height: 200px;"></div>
+    </div>
+    <div class="search displayDTM">
+        <div id="search-wrapper">
+
+        <div class="well well-small searchwell">
+            <form class="form-inline jobAlertsSearchForm" name="keywordsearch" method="get" action="/search/" xml:lang="en-US" lang="en-US" style="margin: 0;" role="search">
+                <input name="createNewAlert" type="hidden" value="false" />
+                <div class="container-fluid">
+                    <div class="row columnizedSearchForm">
+                        <div class="column col-md-9">
+                            <div class="fieldContainer row">
+                                    <div class="col-md-6 rd-keywordsearch">
+                                            <span class="lbl" aria-hidden="true">Search by Keyword</span>
+
+                                        <i class="keywordsearch-icon"></i>
+                                        <input type="text" class="keywordsearch-q columnized-search" name="q" placeholder="Search by Keyword" maxlength="50" aria-label="Search by Keyword" />
+
+                                    </div>
+                                    <div class="col-md-6 rd-locationsearch">
+                                            <span class="lbl" aria-hidden="true">Search by Location</span>
+
+                                        <i class="locationsearch-icon"></i>
+                                        <input type="text" class="keywordsearch-locationsearch columnized-search" name="locationsearch" placeholder="Search by Location" maxlength="50" aria-label="Search by Location" />
+                                    </div>
+                            </div>
+                                <div class="row optionsLink optionsLink-padding">
+            <span>
+                
+                <a href="javascript:void(0)" rel="advance" role="button" id="options-search" class="search-option-link btn-link" aria-controls="moreOptionsDiv" data-toggle="collapse" aria-expanded="false" data-moreOptions="Show More Options" data-lessOptions="Show Fewer Options" data-target=".optionsDiv">Show More Options</a>
+            </span>
+                                </div>
+            <div>
+                <div id="moreOptionsDiv" style="" class="optionsDiv collapse">
+
+                    <div id="optionsFacetLoading" class="optionsFacetLoading" aria-live="assertive">
+                            <span>Loading...</span>
+                    </div>
+                    <div id="optionsFacetValues" class="optionsFacetValues" style="display:none" tabindex="-1">
+                        <hr aria-hidden="true" />
+                        <div id="newFacets" style="padding-bottom: 5px" class="row">
+                                <div class="optionsFacet col-md-4">
+                                    <div class="row">
+                                        <label id="optionsFacetsDD_customfield1_label" class="optionsFacet optionsFacet-label" for="optionsFacetsDD_customfield1">
+                                            Type of Contracts (Regular, Outsourcing...)
+                                        </label>
+                                    </div>
+                                    <select id="optionsFacetsDD_customfield1" name="optionsFacetsDD_customfield1" class="optionsFacet-select optionsFacetsDD_customfield1 form-control-100">
+                                        <option value="">All</option>
+                                    </select>
+                                </div>
+                                <div class="optionsFacet col-md-4">
+                                    <div class="row">
+                                        <label id="optionsFacetsDD_department_label" class="optionsFacet optionsFacet-label" for="optionsFacetsDD_department">
+                                            Jobs Family (Legal, Human Resources...)
+                                        </label>
+                                    </div>
+                                    <select id="optionsFacetsDD_department" name="optionsFacetsDD_department" class="optionsFacet-select optionsFacetsDD_department form-control-100">
+                                        <option value="">All</option>
+                                    </select>
+                                </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+                        </div>
+                        <div class="rd-searchbutton col-md-2">
+                            <div class="row emptylabelsearchspace labelrow">
+                                 
+                            </div>
+                            <div class="row">
+                                <div class="col-md-12 col-sm-12 col-xs-12 search-submit">
+                                            <input type="submit" class="btn keywordsearch-button" value="View Open Positions" />
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+            </form>
+        </div>
+        </div>
+    </div>
+    <style type="text/css">
+        .buttontext5d620d0924479b9e a{
+            border: 1px solid transparent;
+        }
+        .buttontext5d620d0924479b9e a:focus{
+            border: 1px dashed #55be9b !important;
+            outline: none !important;
+        }
+    </style>
+    <div dir="auto" style=" " class="buttontext buttontext5d620d0924479b9e rtltextaligneligible center unmodified backgroundimage backgroundcolor72228158 linkcolor linkhovercolor       displayDT  ">
+        <div class="inner " style="font-family:Arial, Helvetica, sans-serif; font-size:15px;">
+                    <h2 style="font-family:Arial, Helvetica, sans-serif; font-size:14px;" class="h3 fontcolora880bb1b fontalign-left">Please note the “Type of Contract” and “Job family” search filters, available under “More Options”, will restrict your search results to the job offers published in English.</h2><span class="fontcolorb6a533a1"></span>
+        </div>
+    </div>
+    <style type="text/css">
+        .twocolumn7b3aae4a3c0891a6 a{
+            border: 1px solid transparent;
+        }
+        .twocolumn7b3aae4a3c0891a6 a:focus{
+            border: 1px dashed #55be9b !important;
+            outline: none !important;
+        }
+    </style>
+    <div dir="auto" style=" " class="twocolumn twocolumn7b3aae4a3c0891a6 rtltextaligneligible refineImageAlignment backgroundimage2ef4d070-b75b-4b12-88bd-5 topleft unmodified backgroundcolor72228158 linkcolor4bd14732e24ece6c linkhovercolorbe0f4869a9179f44 displayDTM ">
+        <div class="inner">
+            <div class="blank col-sm-6">
+            </div>
+            <div class="inner col-sm-6" id="7b3aae4a3c0891a6">
+                        <h2 class="fontcolor4bd14732e24ece6c fontalign-left" style="font-family:custom2ab3758f5c0543bfa63f5; font-size:30px;">2026 marks Arkema’s 20th anniversary!</h2>
+
+                <div class="fontcolorb6a533a1" style="font-family:Arial, Helvetica, sans-serif; font-size:15px;"><p>As it celebrates its <strong>20th anniversary</strong>, Arkema looks back on its history with pride and toward the future with confidence​.<br />
+<u><a href="https://www.arkema.com/global/en/arkema-group/20-years/#" target="_blank" title="">Read our story!</a></u></p>
+
+                </div>
+            </div>
+       </div>
+    </div>
+    <style type="text/css">
+        .videocomponentd03b093a8d06e982 a{
+            border: 1px solid transparent;
+        }
+        .videocomponentd03b093a8d06e982 a:focus{
+            border: 1px dashed #55be9b !important;
+            outline: none !important;
+        }
+    </style>
+    <div dir="auto" style="  " class="youtubed03b093a8d06e982uotMZu6NPQg rtltextaligneligible row videocomponent videocomponentd03b093a8d06e982 backgroundcolor72228158 linkcolor4bd14732e24ece6c linkhovercolorbe0f4869a9179f44 displayDTM ">
+
+            <div class="col-md-6 col-xs-12">
+
+    <div class="embed-responsive embed-responsive-16by9">
+            <iframe class="embed-responsive-item" src="//www.youtube-nocookie.com/embed/uotMZu6NPQg?rel=0&amp;autoplay=1" allowfullscreen="true"></iframe>
+    </div>
+            </div>
+            <div class="col-md-6 col-xs-12" style="font-family:Arial, Helvetica, sans-serif; font-size:15px;">
+                        <h2 style="font-family:custom2ab3758f5c0543bfa63f5; font-size:30px;" class="h1 fontcolor4bd14732e24ece6c fontalign-left">Join Arkema</h2><span class="fontcolorb6a533a1"><p>A world leader in specialty chemicals and a designer of materials and innovative solutions, <strong>Arkema</strong> shapes materials and creates new uses that accelerate customer performance in lightweight and design materials, biosourced materials, new energies, water management, solutions for electronics, and the performance and home insulation.</p>
+
+<p>With annual sales of &euro;9.1&nbsp;billion and 20 700 people employed in some 55 countries, the French Group pursues ambitious recruitment objectives around the world.<br />
+Arkema offers diverse employment opportunities in 200 job functions and professions in four major fields: industrial, R&amp;D, business, and support functions.</p>
+
+<p><strong>Changing the world requires the right formula.</strong> The right formula consists of our innovative and sustainable materials, and you. Join us to develop the materials of tomorrow and make a difference together. <strong>What are you made of?</strong></p>
+</span>
+            </div>
+    </div>
+    <style type="text/css">
+        .tcjoinaa28f499a60eba6e input{
+            border: 1px solid #444444;
+        }
+        .tcjoinaa28f499a60eba6e input:focus{
+            border: 1px dashed #55be9b !important;
+            outline: none !important;
+        }
+    </style>
+    <div dir="auto" style=" " class="tcjoin tcjoinaa28f499a60eba6e rtltextaligneligible right unmodified backgroundimageca893122-2191-46aa-a48e-4         backgroundcolor3c1163eecd6f1afa displayDTM ">
+        <div class="inner">
+            <div class="blank col-sm-1">
+            </div>
+            <div class="inner col-sm-4">
+                <div class="join backgroundcolore8870a0cee9741b2" title="">
+                            <h2 class="h1 fontcolor503fd7910f7ca2d0 fontalign-left" style="font-family:custom2ab3758f5c0543bfa63f5; font-size:20px;">
+                                Join our Talent Community</h2>
+
+                    <div class="fontcolorb6a533a1" style="font-family:Arial, Helvetica, sans-serif; font-size:16px;"><p>Stay connected with us.<br />
+Sign up below to create your profile.</p>
+
+<p>&nbsp;</p>
+
+                    </div>
+                    <form class="join-form form-control-100 fontcolorb6a533a1" action="https://career5.successfactors.eu/career?site=&amp;company=ARKEMA&amp;lang=en%5FUS&amp;login_ns=register&amp;career_ns=home&amp;navBarLevel=MY_PROFILE" method="post" onsubmit="j2w.TC.handleJoinForm(event)">
+                            <input name="ucc_email" class="join-email form-control" aria-label="Enter E-mail Address" placeholder="Enter E-mail Address" type="text" autocomplete="off" />
+                        <input value="Sign Up" title="Sign Up" type="submit" class="join-submit btn" style="font-family:Arial, Helvetica, sans-serif; font-size:15px;" />
+                    </form>
+                </div>
+            </div>
+            <div class="blank col-sm-7">
+            </div>
+        </div>
+    </div>
+    <style type="text/css">
+        div.threeimagecaption66fb1065c82f0e6f a.threeimagecaption-link {
+            font-family:Arial, Helvetica, sans-serif; font-size:26px;
+        }
+        .threeimagecaption66fb1065c82f0e6f .imagelink, .threeimagecaption66fb1065c82f0e6f a, .threeimagecaption66fb1065c82f0e6f .text {
+            border: 1px solid transparent;
+        }
+        .threeimagecaption66fb1065c82f0e6f .imagelink:focus-within, .threeimagecaption66fb1065c82f0e6f a:focus{
+            border: 1px dashed #55be9b !important;
+            outline: none !important;
+        }
+    </style>
+
+    <div dir="auto" class="threeimagecaption threeimagecaption66fb1065c82f0e6f rtltextaligneligible top verticallyhorizontallyscaled backgroundimage displayDTM backgroundcolor72228158 marginTopLarge marginBottomLarge marginRightNone marginLeftNone" style="font-family:Arial, Helvetica, sans-serif; font-size:15px;     ">
+        
+            <div class="column column1">
+                <div class="top">
+                    <div class="imagelink">
+                        <div aria-hidden="true" class="bgimage backgroundimage10aa1629-ef9a-4ca5-ab42-e" role="img">
+                                    <a tabindex="-1" class="threeimagecaption-link" href="https://www.arkema.com/global/en/media/newslist/news/global/corporate/2026/20260115-top-employer-certification/" target="_blank"><span></span></a>
+                        </div>
+                    </div>
+                        <style type="text/css">
+                            .threeimagecaption66fb1065c82f0e6f .column1 .top .bgimage{
+                                height:198px;
+                                min-height:198px;
+                            }
+                        </style>
+                        <div class="text">
+                                <h2 class="h1 backgroundcolor72228158 fontalign-center linkcolor4bd14732e24ece6c linkhovercolorbe0f4869a9179f44">
+                                        <a href="https://www.arkema.com/global/en/media/newslist/news/global/corporate/2026/20260115-top-employer-certification/" target="_blank" class="fontcolor4bd14732e24ece6c threeimagecaption-link" style="font-family:custom2ab3758f5c0543bfa63f5; font-size:27px;">TOP EMPLOYEUR</a>
+                                </h2>
+                        </div>
+                </div>
+                    <div class="bottom linkcolor4bd14732e24ece6c linkhovercolorbe0f4869a9179f44 fontcolorb6a533a1"><p>This international recognition, awarded by the Top Employers Institute,&nbsp;rewards the excellence of our HR practices&nbsp;in key areas such as quality of life at work, diversity and inclusion, skills development, and the digitalization of HR processes.</p>
+
+<p>France, China, the United States, Brazil, Spain, the Netherlands, the United Kingdom, Italy, Germany, and the Philippines: these countries represent more than 82% of our workforce, and each of them has successfully passed a rigorous audit based on 350 criteria covering 20 HR topics.</p>
+
+                    </div>
+            </div>
+        
+            <div class="column column2">
+                <div class="top">
+                    <div class="imagelink">
+                        <div aria-hidden="true" class="bgimage backgroundimage60c34ef1-71a8-49d4-a8cb-2" role="img">
+                                    <a tabindex="-1" class="threeimagecaption-link" href="https://www.linkedin.com/feed/update/urn:li:activity:7391519647386259456/" target="_blank"><span></span></a>
+                        </div>
+                    </div>
+                        <style type="text/css">
+                            .threeimagecaption66fb1065c82f0e6f .column2 .top .bgimage{
+                                height:198px;
+                                min-height:198px;
+                            }
+                        </style>
+                        <div class="text">
+                                <h2 class="h1 backgroundcolor72228158 fontalign-center linkcolor4bd14732e24ece6c linkhovercolorbe0f4869a9179f44">
+                                        <a href="https://www.linkedin.com/feed/update/urn:li:activity:7391519647386259456/" target="_blank" class="fontcolor4bd14732e24ece6c threeimagecaption-link" style="font-family:custom2ab3758f5c0543bfa63f5; font-size:27px;">FINANCIAL TIMES</a>
+                                </h2>
+                        </div>
+                </div>
+                    <div class="bottom linkcolor4bd14732e24ece6c linkhovercolorbe0f4869a9179f44 fontcolorb6a533a1"><p>We&rsquo;re proud to have moved up in the latest Financial Times &ldquo;Europe&rsquo;s Diversity Leaders 2026&rdquo; ranking.</p>
+
+<p>We rank 94th among Europe&rsquo;s Diversity Leaders, a significant jump from 288th place in 2025. Arkema also stands among the top 15 French companies and ranks 3rd in its sector.<br />
+<br />
+The ranking, based 70% on employee feedback and 30% on objective diversity indicators (such as female representation in leadership, inclusive communication, and external data), reflects both the perception and the concrete commitments of European companies.<br />
+<br />
+This recognition highlights our ongoing commitment to making diversity and inclusion true drivers of performance and innovation</p>
+
+                    </div>
+            </div>
+        
+            <div class="column column3">
+                <div class="top">
+                    <div class="imagelink">
+                        <div aria-hidden="true" class="bgimage backgroundimagec85898ed-7038-4675-89b9-2" role="img">
+                                    <a tabindex="-1" class="threeimagecaption-link" href="https://www.arkema.com/global/en/careers/future-graduates/" target="_blank"><span></span></a>
+                        </div>
+                    </div>
+                        <style type="text/css">
+                            .threeimagecaption66fb1065c82f0e6f .column3 .top .bgimage{
+                                height:198px;
+                                min-height:198px;
+                            }
+                        </style>
+                        <div class="text">
+                                <h2 class="h1 backgroundcolor72228158 fontalign-center linkcolor4bd14732e24ece6c linkhovercolorbe0f4869a9179f44">
+                                        <a href="https://www.arkema.com/global/en/careers/future-graduates/" target="_blank" class="fontcolor4bd14732e24ece6c threeimagecaption-link" style="font-family:custom2ab3758f5c0543bfa63f5; font-size:27px;">HAPPY TRAINEES</a>
+                                </h2>
+                        </div>
+                </div>
+                    <div class="bottom linkcolor4bd14732e24ece6c linkhovercolorbe0f4869a9179f44 fontcolorb6a533a1"><p>For the 7th&nbsp;time in a row, Arkema has been awarded the HappyIndex&reg;&nbsp;Trainees 2026 France label.</p>
+
+<p>Arkema ranked&nbsp;17th&nbsp;out of 39 companies hosting between 200 and 499 interns and work-study students, with a global score of 76.8.</p>
+
+<p>In the chemical/healthcare sector, Arkema came 3rd.</p>
+
+<p>This ranking is based on a survey carried out by ChooseMyCompany, which exclusively collects the opinions of our interns and alternates, and measures commitment and motivation at work.</p>
+
+<p>.</p>
+
+                    </div>
+            </div>
+    </div>
+        <style type="text/css">
+                .googlejobmap2d755b412d1a69a6 div.mapcontainer iframe,.googlejobmap2d755b412d1a69a6 div.mapcontainer{min-height:400px;}
+        </style>
+    <div style=" " class="map googlejobmap2d755b412d1a69a6 displayDT ">
+
+        <noscript>
+            <p>Please enable JavaScript</p>
+        </noscript>
+
+            <style type="text/css">
+                .mapcontainer {
+                    position: relative;
+                    min-height: 400px;
+                    padding-top: 0px;
+                    overflow: hidden;
+                    border: 0px;
+                }
+
+                .mapcontainer iframe {
+                    position: absolute;
+                    top: 0;
+                    left: 0;
+                    min-height: 400px;
+                    width: 1px;
+                    min-width: 100%;
+                    *width: 100%;
+                }
+
+                @media (max-width: 767px) {
+                    .mapcontainer {
+                        min-height: 300px;
+                    }
+
+                    .mapcontainer iframe {
+                        min-height: 300px;
+                        width: 100%;
+                        *width: 100%;
+                    }
+                }
+
+             
+                .map-hidden-content a {
+                   position: absolute;
+                   left: -9999px;
+                   z-index: 999;
+                   padding: 1em;
+                   background-color: black;
+                   opacity: 0;
+                }
+                .map-hidden-content a,.map-hidden-content a:focus,.map-hidden-content a:hover{
+                    color:white !important;
+                }
+
+                .map-hidden-content a:focus {
+                    left: 50%;
+                    transform: translateX(-50%);
+                    opacity: 1;
+                }
+
+            </style>
+
+            <script type="text/javascript">
+
+                //<![CDATA[
+                var getHashValue = function (key) {
+                    var matches = location.hash.match(new RegExp(key + '=([^&]*)'));
+                    return matches ? matches[1] : null;
+                };
+
+                var buildIframeUrl = function () {
+                    var zoom = "",
+                            center = "",
+                            keyword = "",
+                            regionCode = "";
+
+                    if (getHashValue('zoom')) {
+                        zoom = getHashValue('zoom');
+                    } else {
+                        zoom = '3';
+                    }
+
+                    if (getHashValue('center')) {
+                        center = getHashValue('center');
+                    } else {
+                        center = '55,25';
+                    }
+
+                    if (getHashValue('keyword')) {
+                        keyword = getHashValue('keyword');
+                    }
+
+                    if (getHashValue('regionCode')) {
+                        regionCode = getHashValue('regionCode');
+                    } else {
+                        regionCode = 'US';
+                    }
+
+                    var url = "https://";
+                    url += "rmk-map-12.jobs2web.com/map/";
+                    url += "?esid=%2FhFBEzh4%2BvOr0w%2F6zA5N7w%3D%3D&locale=en_US&uselcl=false";
+                    url += "&jobdomain=jobs.arkema.com";
+                    url += "&maplbljob=Job";
+                    url += "&maplbljobs=jobs";
+                    url += "&mapbtnsearchjobs=Search+jobs";
+                    url += "&centerpoint=" + center + "&mapzoom=" + zoom + "&keyword=" + keyword;
+                    url += "&regionCode=" + regionCode;
+                    url += "&mapbrand=";
+                    url += '&limittobrand=false'
+
+                    return url;
+                }
+
+                //]]>
+            </script>
+                    <div class="map-hidden-content">
+                        <h2 class="sr-only">Screen readers cannot read the following searchable map.</h2>
+                        <a href="/search/">Follow this link to reach our Job Search page to search for available jobs in a more accessible format.</a>
+                    </div>
+                            
+                            <div class="mapcontainer">
+                                <script type="text/javascript">
+                                    //<![CDATA[
+
+                                    // we need to pass along just the URL before the #, if it exists
+                                    var href = 'http\x3A\x2F\x2Fjobs.arkema.com\x2Fllms.txt';
+                                    href = href.split("#")[0];
+
+                                    var mapSrc = buildIframeUrl() + '&parentURL=' + encodeURIComponent(href) ;
+
+                                    // name being set to Date.now() is to bust some weird caching issues
+                                    document.write('<iframe id="iframe" title="Google job map" src="' + mapSrc + '" allowfullscreen="" frameborder="0" scrolling="no" ></iframe>');
+
+                                    // hack to force browser to not cache iframe results, even though URL may be different
+                                    var _iframe = document.getElementById('iframe');
+                                    _iframe.contentWindow.location.href = _iframe.src;
+
+                                    //]]>
+                                </script>
+                            </div>
+    </div>
+    <style type="text/css">
+        .videocomponentf87da8d60502b788 a{
+            border: 1px solid transparent;
+        }
+        .videocomponentf87da8d60502b788 a:focus{
+            border: 1px dashed #e30040 !important;
+            outline: none !important;
+        }
+    </style>
+    <div dir="auto" style="     " class="youtubef87da8d60502b788RoewV6ME3FI rtltextaligneligible row videocomponent videocomponentf87da8d60502b788 backgroundcolor72228158 linkcolorfe75c6211ce44e27 linkhovercolorfe75c6211ce44e27 displayDTM marginTopLarge marginBottomLarge marginRightNone marginLeftNone">
+
+            <div class="col-xs-12">
+
+    <div class="embed-responsive embed-responsive-16by9">
+            <iframe class="embed-responsive-item" src="//www.youtube-nocookie.com/embed/RoewV6ME3FI?rel=0&amp;autoplay=0" allowfullscreen="true"></iframe>
+    </div>
+            </div>
+    </div>
+    <style type="text/css">
+        .imagecarousel3c7deba72e7ddc988 .slick-prev i:hover,.imagecarousel3c7deba72e7ddc988 .slick-next i:hover,.imagecarousel3c7deba72e7ddc988 .slick-prev i:focus,.imagecarousel3c7deba72e7ddc988 .slick-next i:focus{background-color:rgba(181,0,0,0.0);}.imagecarousel3c7deba72e7ddc988 .slick-slide {margin:0px;}
+        .imagecarousel3c7deba72e7ddc988 .imagelink, .imagecarousel3c7deba72e7ddc988 ul.slick-slider.slick-initialized > button{
+            border: 1px solid transparent;
+        }
+
+        .imagecarousel3c7deba72e7ddc988 .imagelink:focus-within, .imagecarousel3c7deba72e7ddc988 ul.slick-slider.slick-initialized button:focus{
+            border: 1px dashed #55be9b;
+            outline: none;
+        }
+        .imagecarousel3c7deba72e7ddc988 a.hero-image:focus{
+            border: none !important;
+        }
+    </style>
+    <div style=" " aria-live="off" aria-roledescription="carousel" class="imagecarousel3 rtltextaligneligible center unmodified backgroundimage displayDTM imagecarousel3c7deba72e7ddc988 ">
+                <h2 class="h1 sr-only" aria-label="Let's stay in touch">Let's stay in touch</h2>
+        <div aria-live="polite" class="slickSliderNumber"></div>
+        <div class="ic3wrapper backgroundcolor72228158">
+            <ul class="slick-slider">
+                    <li class="backgroundcolor72228158" aria-roledescription="slide">
+                                    <div class="imagelink">
+                                        <div class="backgroundimage1026481b-3b94-45a3-8cb8-4 unmodified left" title="link to facebook" aria-label="link to facebook" role="img"> 
+                                            
+                                                <a class="hero-image" href="https://www.facebook.com/ArkemaGroup" style="height: 50px;" target="_blank"><span></span></a>
+                                        </div>
+                                    </div>
+
+                    </li>
+                    <li class="backgroundcolor72228158" aria-roledescription="slide">
+                                    <div class="imagelink">
+                                        <div class="backgroundimage41e39cde-1a5e-43df-a8fa-5 scaled center" role="img"> 
+                                            
+                                                <a class="hero-image" href="https://twitter.com/Arkema_group" style="height: 50px;" target="_blank"><span></span></a>
+                                        </div>
+                                    </div>
+
+                    </li>
+                    <li class="backgroundcolor72228158" aria-roledescription="slide">
+                                    <div class="imagelink">
+                                        <div class="backgroundimage5efc6519-2106-4b54-8893-a unmodified center" title="link to youtube" aria-label="link to youtube" role="img"> 
+                                            
+                                                <a class="hero-image" href="https://www.youtube.com/user/ArkemaTV/videos" style="height: 50px;" target="_blank"><span></span></a>
+                                        </div>
+                                    </div>
+
+                    </li>
+                    <li class="backgroundcolor72228158" aria-roledescription="slide">
+                                    <div class="imagelink">
+                                        <div class="backgroundimage7f1e45e6-a898-4468-9b84-8 unmodified center" title="link to instagram" aria-label="link to instagram" role="img"> 
+                                            
+                                                <a class="hero-image" href="https://www.instagram.com/arkemagroup/" style="height: 50px;" target="_blank"><span></span></a>
+                                        </div>
+                                    </div>
+
+                    </li>
+                    <li class="backgroundcolor72228158" aria-roledescription="slide">
+                                    <div class="imagelink">
+                                        <div class="backgroundimage55020369-ac24-4f99-ab73-e unmodified center" title="link to linkedin" aria-label="link to linkedin" role="img"> 
+                                            
+                                                <a class="hero-image" href="https://www.linkedin.com/company/arkema" style="height: 50px;" target="_blank"><span></span></a>
+                                        </div>
+                                    </div>
+
+                    </li>
+            </ul>
+        </div>
+    </div>
+					<script type="text/javascript" src="/platform/csb/js/accessible.slick.min.js?h=275f70e9"></script>
+                            <link type="text/css" rel="stylesheet" href="/platform/csb/css/slick.css?h=275f70e9" />
+    <script type="text/javascript">
+        //<![CDATA[
+        $(document).ready(function () {
+            $('.imagecarousel3c7deba72e7ddc988 .slick-slider').slick({
+                slidesToShow: 18,
+                slidesToScroll: 1,
+                autoplay: false,
+                autoplaySpeed: 0 * 1000,
+                useAutoplayToggleButton: false,
+                dots: false,
+                arrows: true,
+                focusOnSelect: false,
+                focusOnChange: false,
+                regionLabel: "Image carousel",
+                nextArrow: '<button type="button" class="slick-next pull-right" aria-label="Next Slide"><i class="fa fa-angle-right fontcolorb6a533a1" aria-hidden="true"><span style="display:none"></span></i></button>',
+                prevArrow: '<button type="button" class="slick-prev pull-left" aria-label="Previous Slide"><i class="fa fa-angle-left fontcolorb6a533a1" aria-hidden="true"><span style="display:none"></span></i></button>'
+            });
+            let text = "Viewing item {0} of {1}";
+            $('.imagecarousel3c7deba72e7ddc988 .slick-slider').on('init reInit afterChange', function (event, slick, currentSlide) {
+                //currentSlide is undefined on init -- set it to 0 in this case (currentSlide is 0 based)
+                var i = (currentSlide ? currentSlide : 0) + 1;
+                $(".imagecarousel3c7deba72e7ddc988 .slickSliderNumber").html(text.format(i, 5));
+            });
+        });
+        //]]>
+    </script>
+                    </div>
+                </div>
+            </div>
+
+    <div id="footer" role="contentinfo">
+        <div id="footerRowTop" class="footer footerRow">
+            <div class="container  footer-fullwidth">
+
+    <div id="footerInnerLinksSocial" class="row">
+        <ul class="inner links" role="list">
+                    <li><a href="/" title="Careers Home">Careers Home</a></li>
+                    <li><a href="https://www.arkema.com/en/" title="Corporate Home" target="_blank">Corporate Home</a></li>
+                    <li><a href="/topjobs/" title="Top Jobs">Top Jobs</a></li>
+                    <li><a href="/viewalljobs/" title="View All Jobs">View All Jobs</a></li>
+                    <li><a href="/content/cookies/?locale=en_US" title="Cookie Policy">Cookie Policy</a></li>
+                    <li><a href="/content/privacy-policy/?locale=en_US" title="Privacy policy">Privacy policy</a></li>
+                    <li><a href="https://www.arkema.com/en/sales-conditions/" title="General Conditions" target="_blank">General Conditions</a></li>
+        </ul>
+        </div>
+            </div>
+        </div>
+
+        <div id="footerRowBottom" class="footer footerRow">
+            <div class="container  footer-fullwidth">
+                    <p>© 2022 ARKEMA All rights reserved</p>
+            </div>
+        </div>
+    </div>
+        </div>
+            <script class="keepscript" src="https://jobs.arkema.com/platform/bootstrap/3.4.8_NES/js/lib/dompurify/purify.min.js" type="text/javascript"></script>
+            <script class="keepscript" src="https://jobs.arkema.com/platform/bootstrap/3.4.8_NES/js/bootstrap.min.js" type="text/javascript"></script><script type="text/javascript"></script>
+		<script type="text/javascript">
+		//<![CDATA[
+			$(function() 
+			{
+				var ctid = 'e27218d4-cf2e-4cac-a791-3bea8c6f9769';
+				var referrer = '';
+				var landing = document.location.href;
+				var brand = '';
+				$.ajax({ url: '/services/t/l'
+						,data: 'referrer='+ encodeURIComponent(referrer)
+								+ '&ctid=' + ctid 
+								+ '&landing=' + encodeURIComponent(landing)
+								+ '&brand=' + brand
+						,dataType: 'json'
+						,cache: false
+						,success: function(){}
+				});
+			});
+		//]]>
+		</script>
+        <script type="text/javascript">
+            //<![CDATA[
+            $(function() {
+                $('input:submit,button:submit').each(function(){
+                    var submitButton = $(this);
+                    if(submitButton.val() == '') submitButton.val('');
+                });
+
+                $('input, textarea').placeholder();
+            });
+            //]]>
+        </script>
+					<script type="text/javascript" src="/platform/js/localized/strings_en_US.js?h=275f70e9"></script>
+					<script type="text/javascript" src="/platform/js/j2w/min/j2w.core.min.js?h=275f70e9"></script>
+					<script type="text/javascript" src="/platform/js/j2w/min/j2w.tc.min.js?h=275f70e9"></script>
+
+		<script type="text/javascript">
+			//<![CDATA[
+				j2w.init({
+					"cookiepolicy"   : 3,
+					"useSSL"         : true,
+					"isUsingSSL"     : true,
+					"isResponsive"   : true,
+					"categoryId"     : 0,
+					"siteTypeId"     : 1,
+					"ssoCompanyId"   : 'ARKEMA',
+					"ssoUrl"         : 'https://career5.successfactors.eu',
+					"passwordRegEx"  : '^(?=.{6,20}$)(?!.*(.)\\1{3})(?=.*([\\d]|[^\\w\\d\\s]))(?=.*[A-Za-z])(?!.*[\\u007F-\\uFFFF\\s])',
+					"emailRegEx"     : '^(?![+])(?=([a-zA-Z0-9\\\'.+!_-])+[@]([a-zA-Z0-9]|[a-zA-Z0-9][a-zA-Z0-9.-]*[a-zA-Z0-9])[.]([a-zA-Z]){1,63}$)(?!.*[\\u007F-\\uFFFF\\s,])(?!.*[.]{2})',
+					"hasATSUserID"	 : false,
+					"useCASWorkflow" : true,
+					"brand"          : "",
+					"dpcsStateValid" : true
+					
+				});
+
+				j2w.TC.init({
+					"seekConfig" : {
+						"url" : 'https\x3A\x2F\x2Fwww.seek.com.au\x2Fapi\x2Fiam\x2Foauth2\x2Fauthorize',
+						"id"  : 'successfactors12',
+						"advertiserid" : ''
+					}
+				});
+
+				$.ajaxSetup({
+					cache   : false,
+					headers : {
+						"X-CSRF-Token" : "8f381932-f108-4534-b6dd-807381ea65a8"
+					}
+				});
+			//]]>
+		</script>
+					<script type="text/javascript" src="/platform/js/search/search.js?h=275f70e9"></script>
+					<script type="text/javascript" src="/platform/js/j2w/min/j2w.user.min.js?h=275f70e9"></script>
+					<script type="text/javascript" src="/platform/js/j2w/min/j2w.agent.min.js?h=275f70e9"></script>
+        
+        <script type="text/javascript" src="/platform/js/jquery/js.cookie-2.2.1.min.js"></script>
+        <script type="text/javascript" src="/platform/js/jquery/jquery.lightbox_me.js"></script>
+        <script type="text/javascript" src="/platform/js/jquery/jquery.placeholder.2.0.7.min.js"></script>
+        <script type="text/javascript" src="/js/override.js?locale=en_US&amp;i=506693162"></script>
+        <script type="text/javascript">
+            const jobAlertSpans = document.querySelectorAll("[data-testid=jobAlertSpanText]");
+            jobAlertSpans?.forEach((jobEl) => {
+              jobEl.textContent = window?.jsStr?.tcjobresultscreatejobalertsdetailstext || "";
+            });
+        </script>
+            <script type="text/javascript">
+            //<![CDATA[
+                if (Cookies && !Cookies.get('rmk12')) {
+                    $('.ukCookiePolicy').show();
+
+                    $('#cookie-close').click(function () {
+                        closeBanner();
+                    });
+
+                    $('#cookie-acknowledge').click(function () {
+                        closeBanner(true);
+                    });
+
+                    /**
+                     * Closes the cookie banner, optionally dropping a cookie to keep the banner from reappearing.
+                     * @param {boolean=} bDropCookie - If true, a cookie will be dropped to prevent the banner from
+                     *     being shown again.
+                     */
+                    function closeBanner(bDropCookie) {
+                        if (bDropCookie) {
+                            Cookies.set('rmk12', 1, {
+                                expires: (function () {
+                                    var i = new Date;
+                                    i.setFullYear(i.getFullYear() + 30);
+                                    return i;
+                                }())
+                            });
+                        }
+
+                        $('div.ukCookiePolicy').remove();
+
+                        /* When the banner is removed, the fixed header may need to be resized. If there is no fixed
+                        header, this event goes unhandled. Please see header.xhtml. */
+                        $(document).trigger('resizeFixedHeader');
+
+                        $("#skipLink").focus();
+                    }
+                }
+            //]]>
+            </script>
+					<script type="text/javascript" src="/platform/js/j2w/min/options-search.min.js?h=275f70e9"></script>
+            <script type="application/javascript">
+                //<![CDATA[
+                var j2w = j2w || {};
+                j2w.search = j2w.search || {};
+                j2w.search.options = {
+                    isOpen: false,
+                    facets: ["customfield1","department"],
+                    showPicklistAllLocales : false
+                };
+                //]]>
+            </script>
+		</body>
+    </html>
