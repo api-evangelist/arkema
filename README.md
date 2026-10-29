@@ -1,4 +1,4 @@
-# Arkema (arkema)
+# Arkema
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -66,157 +66,98 @@
 
 Arkema S.A. is a French specialty materials company headquartered in La Defense, Paris and listed on Euronext Paris under ticker AKE. The group is organized around three Specialty Materials segments — Adhesive Solutions (anchored by the Bostik brand), Advanced Materials (high-performance polymers including Kynar PVDF, Rilsan polyamides, Pebax elastomers, Sartomer photocurable resins) and Coating Solutions (acrylic monomers, waterborne and solvent-borne resins, additives) — plus a smaller Intermediates business. Arkema employs roughly 21,000 people across 55 countries with about 154 production plants and 17 R&D centers, generating around EUR 9.1 billion in 2025 revenue. Strategy is anchored in materials science, decarbonization and a validated 1.5 degree SBTi pathway toward Net-Zero by 2050. Arkema does not publish a public developer portal or REST API; customer integrations and product data are exchanged through commercial sales channels, the Product Finder web UI and Safety Data Sheet downloads.
 
-**URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/arkema/refs/heads/main/apis.yml)
+**Areas:** Chemicals · Specialty Materials · Adhesives · Polymers · Coatings · Manufacturing · Sustainability
 
-**Run:** [Capabilities Using Naftiko](https://github.com/naftiko/fleet?utm_source=api-evangelist&utm_medium=readme&utm_campaign=company-api-evangelist&utm_content=repo)
+## Arkema on APIs.io
 
-## Tags:
+Everything profiled for Arkema is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/arkema/](https://apis.io/providers/arkema/)** — or go straight to one of the APIs or properties below.
 
- - Chemicals, Specialty Materials, Adhesives, Polymers, Coatings, Manufacturing, Sustainability
+### Published properties
 
-## Timestamps
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
-- **Created:** 2026-05-23
-- **Modified:** 2026-05-23
+#### Security (1)
 
-## APIs
+Authentication, trust centre, and vulnerability disclosure.
 
+- [Arkema Domain Security](https://apis.io/security/arkema/arkema-domain-security/)
 
-#### Tags:
+#### Plans and pricing (1)
 
- - Adhesives, Sealants, Construction, Packaging, Hygiene, Industrial Assembly
+Published plans, tiers and prices.
 
-#### Properties
+- [Arkema Plans Pricing](https://apis.io/plans/arkema/arkema-plans-pricing/)
 
-- [Documentation](https://www.bostik.com)
-- [ProductCatalog](https://www.arkema.com/global/en/products/product-finder/)
+#### Rate limits (1)
 
+Published request limits.
 
-#### Tags:
+- [Arkema Rate Limits](https://apis.io/rate-limits/arkema/arkema-rate-limits/)
 
- - High Performance Polymers, Fluoropolymers, Polyamides, PVDF, PEKK, Performance Additives
+#### FinOps (1)
 
-#### Properties
+What the API costs to run, by operation.
 
-- [ProductCatalog](https://www.arkema.com/global/en/products/product-finder/)
-- [Documentation](https://www.arkema.com)
+- [Arkema Finops](https://apis.io/finops/arkema/arkema-finops/)
 
+## Where to find this API
 
-#### Tags:
-
- - Coatings, Acrylic Monomers, Resins, UV Curable, Photocure, Rheology Additives
-
-#### Properties
-
-- [ProductCatalog](https://www.arkema.com/global/en/products/product-finder/)
-- [Documentation](https://www.arkema.com)
-
-
-#### Tags:
-
- - Fluorochemicals, Hydrogen Peroxide, Acrylics, PMMA, Refrigerants
-
-#### Properties
-
-- [ProductCatalog](https://www.arkema.com/global/en/products/product-finder/)
-- [Documentation](https://www.arkema.com)
-
-
-#### Tags:
-
- - Safety Data Sheets, SDS, Regulatory, Compliance, Chemicals
-
-#### Properties
-
-- [Documentation](https://www.arkema.com/global/en/products/product-safety/)
-
-
-#### Tags:
-
- - Sustainability, Net Zero, SBTi, Decarbonization, ESG
-
-#### Properties
-
-- [Documentation](https://www.arkema.com/global/en/sustainability/)
-- [InvestorRelations](https://www.arkema.com/global/en/investor-relations/)
-
-
-#### Tags:
-
- - Investor Relations, Financial Reporting, Euronext, CAC 40
-
-#### Properties
-
-- [Documentation](https://www.arkema.com/global/en/investor-relations/)
-
-## Common Properties
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
 - [Website](https://www.arkema.com)
-- [Portal](https://www.arkema.com/global/en/products/product-finder/)
-- [Bostik](https://www.bostik.com)
-- [InvestorRelations](https://www.arkema.com/global/en/investor-relations/)
-- [Sustainability](https://www.arkema.com/global/en/sustainability/)
-- [News](https://www.arkema.com/global/en/media/newslist/)
-- [LinkedIn](https://www.linkedin.com/company/arkema)
-- [GitHub](https://github.com/Arkema)
+- [Documentation](https://www.arkema.com/global/en/social-responsibility/documentation/)
+- [Sign up](https://www.arkema.com/global/en/investor-relations/individual-shareholder/registered-shares/)
+- [Blog](https://www.arkema.com/global/en/media/newsroom/)
 
-## Segments
+## API Evangelist rating
 
-| Name | Description |
-|------|-------------|
-| Adhesive Solutions | Adhesives, sealants and bonding solutions delivered through Bostik for construction, packaging, hygiene, industrial assembly and consumer DIY. |
-| Advanced Materials | High performance polymers (Kynar PVDF, Rilsan polyamide 11/12, Pebax, Kepstan PEKK) and performance additives (organic peroxides, thiochemicals, molecular sieves). |
-| Coating Solutions | Acrylic monomers, coating resins, Sartomer UV/LED/EB photocure resins and Coatex rheology additives for paints, coatings, adhesives, graphic arts and electronics. |
-| Intermediates | Upstream fluorogases, refrigerants, PMMA (Altuglas / Plexiglas) and hydrogen peroxide supplying both internal segments and external customers. |
+**Kin Score 12.9** — emerging · rubric 0.24.0 · scored 2026-10-20
 
-## Features
+| Facet | Score |
+|---|---|
+| Discoverability | 49.1 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 10.5 |
+| Developer ergonomics | 21.4 |
+| Access clarity | 18.4 |
 
-| Name | Description |
-|------|-------------|
-| Materials Science Platform | "Building on its unique set of expertise in materials science, Arkema designs materials to address the ever-growing demand for innovative and sustainable materials." |
-| Flagship Brand Portfolio | Branded technology platforms including Bostik adhesives, Kynar PVDF, Rilsan and Rilsamid bio-based polyamides, Pebax elastomers, Sartomer photocurables, Coatex rheology modifiers and Altuglas / Plexiglas PMMA. |
-| Global Manufacturing Footprint | About 154 production plants and 17 R&D centers across 55 countries, enabling regional supply for global and local customers. |
-| Product Finder | A-Z index and criteria-based product search across 27 product families covering fluoropolymers, acrylics, amines, adhesives, coating resins, peroxides, PEKK, UV/LED/EB resins and polyimides. |
-| Safety Data Sheets | Product Safety portal providing regulatory documentation and SDS downloads for Arkema chemical products. |
-| Sustainability Reporting | Annual disclosure of Scope 1/2/3 emissions, SBTi-validated 1.5 degree trajectory, Net-Zero by 2050 ambition and Sustainable Solutions portfolio metrics in the Universal Registration Document. |
+**Agent readiness 0.6** — human-only
 
-## Use Cases
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | derived (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
 
-| Name | Description |
-|------|-------------|
-| Battery and Hydrogen Materials | Kynar PVDF binders and separators for lithium-ion batteries, plus fluoropolymer membranes for hydrogen electrolysis and fuel cells. |
-| Lightweight Mobility | Rilsan polyamide 11 fuel and brake lines, Pebax elastomers for sporting goods and automotive components, and PEKK composites for aerospace. |
-| Sustainable Building | Bostik tile adhesives, sealants and roofing systems, plus acrylic coating resins for low-VOC architectural paints. |
-| Consumer Goods Packaging | Bostik packaging adhesives for flexible lamination, labels, reclosable packaging and absorbent hygiene products. |
-| Advanced Electronics | Photocurable Sartomer resins, fluoropolymer films and high-purity intermediates for semiconductor manufacturing, displays and printed electronics. |
-| Healthcare and Wellness | Medical-grade Pebax, Rilsan and Kynar polymers for catheters, drug delivery, prosthetics and medical packaging. |
+**Regulatory alignment 5.9** — Horizontal (data, software, accessibility, platform)
 
-## Integrations
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/arkema/](https://apis.io/providers/arkema/).
 
-| Name | Description |
-|------|-------------|
-| Bostik Customer Network | Adhesive Solutions products distributed through construction merchants, industrial distributors and direct OEM contracts globally. |
-| Specialty Polymer Distribution | Kynar, Rilsan, Pebax, Kepstan and Sartomer product lines delivered to OEMs and formulators via Arkema regional sales and authorized distributors. |
-| Joint Ventures and Acquisitions | Strategic acquisitions and joint ventures expanding the Adhesive Solutions and Advanced Materials platforms, including Bostik (2015), Den Braven, ArrMaz, Ashland Performance Adhesives and PIAM. |
-| Sustainability Frameworks | Alignment with the Science Based Targets initiative (SBTi), Responsible Care, EcoVadis and CDP for emissions, water and supply-chain disclosure. |
+## How this profile is made
 
-## Strategy
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
 
-| Name | Description |
-|------|-------------|
-| 2028 Ambition | Strategic plan targeting roughly EUR 12 billion in sales and ~18 percent EBITDA margin by 2028, with ~4 percent organic sales growth and 7-8 percent organic EBITDA growth over 2024-2028. |
-| Five Growth Sub-Markets | Focused growth in green energy and e-mobility, advanced electronics, sustainable lifestyle, efficient buildings and healthcare and wellness, expected to grow at roughly 12 percent annually. |
-| Net-Zero by 2050 | Decarbonization roadmap aligned with a 1.5 degree trajectory validated by SBTi, combining process electrification, low-carbon energy sourcing and Scope 3 supplier engagement. |
-| One Arkema Operating Model | Cross-segment "One Arkema" operating model emphasizing customer intimacy, manufacturing excellence, decarbonization and digitalization. |
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Arkema: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
 
-## Plans, Rate Limits, and FinOps
+## Open an issue
 
-- [Plans](plans/arkema-plans-pricing.yml) — Customer / distributor account model; no public developer pricing.
-- [Rate Limits](rate-limits/arkema-rate-limits.yml) — No public API; throughput governed by customer agreement.
-- [FinOps](finops/arkema-finops.yml) — Procurement-grade cost allocation aligned with the FinOps Framework and FOCUS 1.3.
-
-## Maintainers
-
-**FN:** Kin Lane
-
-**Email:** kin@apievangelist.com
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/arkema/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
